@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3736 in total).  
+List of all available assets for download (currently 3741 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1893,7 +1893,9 @@ LENS_STUDIO_COMPONENT_ML_IMMERSIVE_V1_SAMPLES_LIST_TE
 LENS_STUDIO_MOBILE_BODYMORPH_COMPONENT_V1
 LENS_STUDIO_MOBILE_COMPONENTS_LIST_
 LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1
+LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1_TEST_g5t7nu6g
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4p2fh7ta
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_6jqgjcpf
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_lq59pkus
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_x1c4tl9j
@@ -1945,6 +1947,7 @@ LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_621txxr1
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_6bhzywep
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_8vr8031r
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_ba580tvv
+LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_fjw9dwqr
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_frc73gwj
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_ttti39d3
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST
@@ -1956,6 +1959,7 @@ LENS_STUDIO_MOBILE_HEADMORPH_COMPONENT_V1
 LENS_STUDIO_WEB_COMPONENTS_LIST_V1_TE
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_ccgrjb36
+LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_xzcinti9
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
@@ -2624,6 +2628,7 @@ RND-10273_st_patrick_day_holiday_tagline_full_frame_ml_v1_001_bow_tie_Saint_Patr
 RND-10273_st_patrick_day_holiday_tagline_full_frame_ml_v1_001_bow_tie_Saint_Patrick_s_Day_base.dnn
 RND-10273_st_patrick_day_holiday_tagline_full_frame_ml_v6_006_fantasy_elf_with_gold_clover
 RND-10273_st_patrick_day_holiday_tagline_full_frame_ml_v7_voxel_v4_distilled_retouch
+RND-10308_merging_rococo_realistic_style_full_frame_ml_merged_v14_014_waist_up_rococo
 RND-10308_merging_rococo_realistic_style_full_frame_ml_v14_014_waist_up_rococo_figure_white_wig_with_pearls_and_roses_paste
 RND-10315_merging_full_frame_ml
 RND-10315_merging_full_frame_ml_v19_019_figure_in_glossy_metallic_bomber_jacket_with_vibrant_pink
@@ -3741,7 +3746,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-04-29_
+_Last updated on 2025-04-30_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
