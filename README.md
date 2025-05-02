@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3743 in total).  
+List of all available assets for download (currently 3752 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1894,6 +1894,7 @@ LENS_STUDIO_MOBILE_BODYMORPH_COMPONENT_V1
 LENS_STUDIO_MOBILE_COMPONENTS_LIST_
 LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1
 LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1_TEST_g5t7nu6g
+LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1_TEST_zo8fgr37
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4p2fh7ta
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_6jqgjcpf
@@ -1943,6 +1944,7 @@ LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1_TEST
 LENS_STUDIO_MOBILE_COMPONENT_MORPH_V1
 LENS_STUDIO_MOBILE_COMPONENT_MORPH_V1_TEST_a7voyiks
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1
+LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_12rqcy3l
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_621txxr1
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_6bhzywep
 LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_8vr8031r
@@ -1953,12 +1955,15 @@ LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_ttti39d3
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST_2
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7jvxdsbv
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_c6f68byf
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_kcj5clw1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_rr60yx1n
 LENS_STUDIO_MOBILE_HEADMORPH_COMPONENT_V1
 LENS_STUDIO_WEB_COMPONENTS_LIST_V1_TE
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_ccgrjb36
+LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_wghegqoe
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_xzcinti9
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
@@ -2452,6 +2457,7 @@ LORG-16336_org_techfull_frame_mlold_doll_style_2025
 LORG-16342_org_techfull_frame_ml_green_comics_style_2025
 LORG-16351_org_techfull_frame_ml_korean_pastel_style_2_2025
 LORG-16363_org_techfull_frame_ml_anime_style_1_2025
+LORG-16571_inner_eye_corners_snapflixbeauty_2025
 LORG-16644_org_techfull_frame_ml_old_style_2_2025
 LORG-16647_org_techfull_frame_ml_grunge_style_2025.dnn
 LORG-16650_org_techfull_frame_ml_80s_style_2025
@@ -2464,6 +2470,7 @@ LORG-16736_org_techfull_frame_ml_me_in_anime_style_2025
 LORG-16762_org_techfull_frame_ml_luxury_old_style_2025
 LORG-16770_org_techfull_frame_ml_beautiful_20s_2025
 LORG-16802_org_techfull_frame_ml_cartoon_character_2025
+LORG-16937
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2682,6 +2689,8 @@ RND-11719_4_in_1_randomiser_full_frame_ml_v20_020_pastel_plush_pink_kigurumi_w
 RND-11719_4_in_1_randomiser_full_frame_ml_v21_021_surrounded_by_daisies_in_war
 RND-11719_4_in_1_randomiser_full_frame_ml_v9_009_fluffy_chicken_texture_yello
 RND-12108_holographic_coat_full_frame_ml_v19_019_magical_realism_bright_colour_weighted
+RND-12217-dependable
+RND-12217-sneaky-face
 RND-1234_FULL_FRAME_ML_v10_pointillism_painting_art_pointillism_oil_painting_base__V2
 RND-1234_FULL_FRAME_ML_v11_a_painting_made_entirely_of_dots_the_dot_pattern_depicts_dot_pattern_illustration_base__V1
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V3
@@ -3748,7 +3757,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-01_
+_Last updated on 2025-05-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
