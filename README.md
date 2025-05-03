@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3752 in total).  
+List of all available assets for download (currently 3761 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1897,7 +1897,9 @@ LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1_TEST_g5t7nu6g
 LENS_STUDIO_MOBILE_COMPONENT_ADJUST_V1_TEST_zo8fgr37
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4p2fh7ta
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4y5rs5k8
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_6jqgjcpf
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jtvgrkzc
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_lq59pkus
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_x1c4tl9j
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1
@@ -2691,6 +2693,9 @@ RND-11719_4_in_1_randomiser_full_frame_ml_v9_009_fluffy_chicken_texture_yello
 RND-12108_holographic_coat_full_frame_ml_v19_019_magical_realism_bright_colour_weighted
 RND-12217-dependable
 RND-12217-sneaky-face
+RND-12267_ui_denim_look_v2_full_frame_ml_v21_021_messy_voluminous_1980s_hair_detailed_white_t_shirt_oversized
+RND-12267_ui_denim_look_v2_full_frame_ml_v2_002_college_age_school_photo_curly_hair
+RND-12267_ui_denim_look_v2_full_frame_ml_v3_003_1986_school_photo_high_hair_jeans
 RND-1234_FULL_FRAME_ML_v10_pointillism_painting_art_pointillism_oil_painting_base__V2
 RND-1234_FULL_FRAME_ML_v11_a_painting_made_entirely_of_dots_the_dot_pattern_depicts_dot_pattern_illustration_base__V1
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V3
@@ -3718,6 +3723,8 @@ lorg_14265_nostrils_v2
 lorg_7031_struggle_v2
 magical_elf_25551
 monkey_style_25455
+new13New
+new5New
 newClassifiers
 newFS13
 newFS5
@@ -3727,6 +3734,8 @@ new_big_mouth_v5
 new_big_mouth_v5.1
 no_glasses_test_dr
 okarpii_test
+old13New
+old5New
 oldFS13
 oldFS5
 oldFS5M
@@ -3757,7 +3766,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-02_
+_Last updated on 2025-05-03_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
