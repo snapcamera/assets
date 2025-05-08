@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3768 in total).  
+List of all available assets for download (currently 3785 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1960,9 +1960,14 @@ LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST_2
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7jvxdsbv
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7khfz7xn
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_abaahx1j
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_c6f68byf
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ea2022a5
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_eimyyqqi
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_gygdzn3s
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_kcj5clw1
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_mfb5z99h
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_rr60yx1n
 LENS_STUDIO_MOBILE_HEADMORPH_COMPONENT_V1
 LENS_STUDIO_WEB_COMPONENTS_LIST_V1_TE
@@ -1970,6 +1975,10 @@ LENS_STUDIO_WEB_COMPONENT_ADJUST_V1
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_ccgrjb36
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_wghegqoe
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_xzcinti9
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_i7xfu3kj
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_isnow7jh
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ki5dx9ad
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
@@ -1990,6 +1999,7 @@ LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_aj0fjm2p
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_MORPH_V1_TEST_1pvmx6wm
+LENS_STUDIO_WEB_COMPONENT_QNA_V1
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_30lwgp26
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_co9ega2h
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_jd36t80p
@@ -2479,6 +2489,12 @@ LORG-16762_org_techfull_frame_ml_luxury_old_style_2025
 LORG-16770_org_techfull_frame_ml_beautiful_20s_2025
 LORG-16802_org_techfull_frame_ml_cartoon_character_2025
 LORG-16937
+LORG-17206_org_techfull_frame_ml_pixel_perfect_2025
+LORG-17212_org_techfull_frame_ml_dreamy_soft_pastel_2025
+LORG-17218_org_techfull_frame_ml_cinematic_noir_portrait_2025
+LORG-17230_org_techfull_frame_ml_b_w_manga_style_2025
+LORG-17236_org_techfull_frame_ml_mysterious_portrait_2025
+LORG-17291_org_techfull_frame_ml_liquid_gold_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3721,6 +3737,7 @@ grinch_superconv_300k_large_50k_step10000_ema
 kind_face_25525
 kind_face_25570
 large_serious_bear_25391
+lastGender
 lilac_mint
 lorg-13743_full_mouth_snapflixmorphing_2025
 lorg_13654_curious_face_snapflixmorphing_2025
@@ -3773,7 +3790,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-07_
+_Last updated on 2025-05-08_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
