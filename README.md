@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3785 in total).  
+List of all available assets for download (currently 3794 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -184,6 +184,7 @@ See the last section for instructions on [how to download the assets](#download-
 25575_k-pop_man_01
 25576_k-pop_woman_01
 25579_Big_boy
+26677-6719-large
 3432-16-base
 35728_21071
 3850_base
@@ -411,6 +412,7 @@ BRANDED-1099_nyx_bb_color_palette_v4
 BRANDED-1099_nyx_bb_color_palette_v5
 BRANDED-1300_paramount_pictures_transformers_one
 BRANDED-2662_minecraft_movie_blockify_your_world
+BRANDED-3304_coca_cola_vending_machine_2025_big_mouth
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
 Beard_India_ML_RND_201
@@ -2001,6 +2003,7 @@ LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_MORPH_V1_TEST_1pvmx6wm
 LENS_STUDIO_WEB_COMPONENT_QNA_V1
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_30lwgp26
+LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_3sitfske
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_co9ega2h
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_jd36t80p
 LENS_STUDIO_WEB_COMPONENT_SONIA_TEST
@@ -2492,9 +2495,13 @@ LORG-16937
 LORG-17206_org_techfull_frame_ml_pixel_perfect_2025
 LORG-17212_org_techfull_frame_ml_dreamy_soft_pastel_2025
 LORG-17218_org_techfull_frame_ml_cinematic_noir_portrait_2025
+LORG-17224_org_techfull_frame_ml_low_res_3d_mesh_2025
 LORG-17230_org_techfull_frame_ml_b_w_manga_style_2025
 LORG-17236_org_techfull_frame_ml_mysterious_portrait_2025
+LORG-17242_org_techfull_frame_ml_whimsical_painterly_style_2025
+LORG-17259_org_techfull_frame_ml_high_fashion_fantasy_2025
 LORG-17291_org_techfull_frame_ml_liquid_gold_2025
+LORG-17303_org_techfull_frame_ml_futuristic_digital_mood_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3770,6 +3777,8 @@ smile_every_day_25397
 soft_glitter
 test100
 test_111
+test_fullscreen_ml_auto
+test_fullscreen_ml_auto_project
 test_size_compresion_base_green_ml
 thief_face_25552
 upset_kid_25462
@@ -3790,7 +3799,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-08_
+_Last updated on 2025-05-09_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
