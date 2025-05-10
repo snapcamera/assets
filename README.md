@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3794 in total).  
+List of all available assets for download (currently 3811 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -185,6 +185,7 @@ See the last section for instructions on [how to download the assets](#download-
 25576_k-pop_woman_01
 25579_Big_boy
 26677-6719-large
+26726-6728-large
 3432-16-base
 35728_21071
 3850_base
@@ -412,7 +413,9 @@ BRANDED-1099_nyx_bb_color_palette_v4
 BRANDED-1099_nyx_bb_color_palette_v5
 BRANDED-1300_paramount_pictures_transformers_one
 BRANDED-2662_minecraft_movie_blockify_your_world
+BRANDED-3304_coca_cola_vending_machine_2025_baloon_head
 BRANDED-3304_coca_cola_vending_machine_2025_big_mouth
+BRANDED-3304_coca_cola_vending_machine_2025_hair
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
 Beard_India_ML_RND_201
@@ -1909,6 +1912,7 @@ LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_x1c4tl9j
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_4qj8uaaq
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_5joqb1y2
+LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_ay11zuy6
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_iq6gehij
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_jhed3tky
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_l06agdsn
@@ -1982,6 +1986,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_isnow7jh
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ki5dx9ad
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
+LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_fosczriw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_xpiflqrw
@@ -1989,12 +1994,14 @@ LENS_STUDIO_WEB_COMPONENT_BITMOJI_V1
 LENS_STUDIO_WEB_COMPONENT_BITMOJI_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_BITMOJI_V1_TEST_MISHA
 LENS_STUDIO_WEB_COMPONENT_BODYMORPH_V1
+LENS_STUDIO_WEB_COMPONENT_BODYMORPH_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_FACE_INSETS_V1_TEST_zyng1fnh
 LENS_STUDIO_WEB_COMPONENT_FACE_MORPH_V1_TEST_y523tn3a
 LENS_STUDIO_WEB_COMPONENT_FILTER_V1_TEST_elhmz1in
 LENS_STUDIO_WEB_COMPONENT_FILTER_V1_TEST_pne3jrqq
 LENS_STUDIO_WEB_COMPONENT_FILTER_V1_TEST_sc2dlpee
 LENS_STUDIO_WEB_COMPONENT_HEADMORPH_V1
+LENS_STUDIO_WEB_COMPONENT_HEADMORPH_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_aj0fjm2p
@@ -2499,9 +2506,16 @@ LORG-17224_org_techfull_frame_ml_low_res_3d_mesh_2025
 LORG-17230_org_techfull_frame_ml_b_w_manga_style_2025
 LORG-17236_org_techfull_frame_ml_mysterious_portrait_2025
 LORG-17242_org_techfull_frame_ml_whimsical_painterly_style_2025
+LORG-17248_26675
 LORG-17259_org_techfull_frame_ml_high_fashion_fantasy_2025
+LORG-17265_org_techfull_frame_ml_dark_academia_style_2025
+LORG-17272_org_techfull_frame_ml_angelcore_2025
+LORG-17278_org_techfull_frame_ml_medieval_romantic_2025
+LORG-17285_26699
 LORG-17291_org_techfull_frame_ml_liquid_gold_2025
+LORG-17297_org_techfull_frame_ml_chibi_fantasy_2025_26726-6728-large
 LORG-17303_org_techfull_frame_ml_futuristic_digital_mood_2025
+LORG-17309_org_techfull_frame_ml_made_of_fire_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2607,6 +2621,7 @@ LORG_12151_neandertal
 LORG_3789_Dhanteras_ML
 LORG_3789_Dhanteras_ML_jewelry
 LORG_3789_jewelry
+Lorg-test_26726-6728-large
 MAGIC_ERASER_CREATIVE_TOOL
 MAGIC_ERASER_CREATIVE_TOOL_NEW
 ML_ASSET_ID_EXAMPLE
@@ -3683,6 +3698,7 @@ base_ema_unfriendly_10_concepters_v3_d2_ip2p_christmas_last_ema_aggressive
 base_ema_unfriendly_10_concepters_v3_d2_ip2p_christmas_last_ema_aggressive_only_base
 base_ema_unfriendly_10_concepters_v3_d2_ip2p_christmas_last_ema_base
 base_patricks_anime_strength_1_step260000_ema
+basketballMCTest
 blonde
 blue_mint
 bob-v1-2_final
@@ -3779,6 +3795,7 @@ test100
 test_111
 test_fullscreen_ml_auto
 test_fullscreen_ml_auto_project
+test_large
 test_size_compresion_base_green_ml
 thief_face_25552
 upset_kid_25462
@@ -3799,7 +3816,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-09_
+_Last updated on 2025-05-10_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
