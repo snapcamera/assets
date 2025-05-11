@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3811 in total).  
+List of all available assets for download (currently 3825 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2014,6 +2014,20 @@ LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_3sitfske
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_co9ega2h
 LENS_STUDIO_WEB_COMPONENT_QNA_V1_TEST_jd36t80p
 LENS_STUDIO_WEB_COMPONENT_SONIA_TEST
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_28kmwr2i
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_2a20q8oj
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_309osmsm
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_9ulxv4fi
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_bsk2fwv7
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_bvl8w528
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_enbcu6u9
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_jzyqsxdu
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m8naruu4
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qnbvra9h
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ry4jvdpu
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_wxabky0f
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_xs7vux60
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_zcgmsa1v
 LEN_154132_New_Baby_ML_V1
 LEN_154132_New_Baby_ML_V2
 LEN_162814_Christmas_Tree_ML
@@ -3816,7 +3830,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-10_
+_Last updated on 2025-05-11_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
