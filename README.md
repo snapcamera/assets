@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3882 in total).  
+List of all available assets for download (currently 3894 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1113,6 +1113,7 @@ EVASYLEVA_TEST_2
 EVASYLEVA_TEST_3
 EVASYLEVA_TEST_6
 Egg_Face_25316
+FACE_SWAP_ON_DEVICE_COMMUNITY
 FLYING_CEILING
 FLYING_CEILING_TEST
 FND-4490-Face-Swap-3
@@ -1918,6 +1919,7 @@ LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_ay11zuy6
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_f4f2jrf9
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_iq6gehij
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_jhed3tky
+LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_jrzgpdbl
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_l06agdsn
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_lqxrv1pw
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_misvsnom
@@ -2007,8 +2009,10 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_rt1u8k2j
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_sb7o0g6q
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
+LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_ebg5xe3d
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_fosczriw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
+LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_t53npbiw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_xpiflqrw
 LENS_STUDIO_WEB_COMPONENT_BITMOJI_V1
@@ -2811,7 +2815,9 @@ RND-12760_technical_ml_model_test_v3_full_frame_ml_origami_870k_encoder
 RND-12771_retro_comic_art_manually_distilled_vs_via_tool_25689-6636
 RND-12804_copybara_head_3d_ml_base
 RND-12804_copybara_head_3d_ml_warp
+RND-12823_detailed_illustration_context_switch_v2_26800-6743
 RND-1286_TEETH_WHITENING_ML_BLUE_VIOLET
+RND-12954_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-466k-256-wmeta-fix
 RND-1302_BUNDLE_V2_ML_1
 RND-1302_BUNDLE_V2_ML_3
 RND-1302_BUNDLE_V2_ML_4
@@ -3864,6 +3870,12 @@ smile_every_day_25397
 soft_glitter
 test100
 test_111
+test_26668-6715-large
+test_auto_ml_upload_26668-6715-large
+test_auto_ml_upload_26726-6728-large
+test_auto_ml_upload_full_test_26668-6715-large
+test_auto_ml_upload_full_test_26726-6728-large
+test_cof_generate_auto_23815796-6548621-large
 test_fullscreen_ml_auto
 test_fullscreen_ml_auto_project
 test_large
@@ -3887,7 +3899,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-16_
+_Last updated on 2025-05-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
