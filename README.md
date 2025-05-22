@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3914 in total).  
+List of all available assets for download (currently 3917 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1964,6 +1964,7 @@ LENS_STUDIO_MOBILE_COMPONENT_HEADMORPH_V1_TEST_kdmr42nb1
 LENS_STUDIO_MOBILE_COMPONENT_HEADMORPH_V1_TEST_u55xvc3t
 LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1
 LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST
+LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST_MERGE
 LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST_OUTDATED_TEMPLATE_CORE
 LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST_UPDATER
 LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1
@@ -2039,6 +2040,7 @@ LENS_STUDIO_WEB_COMPONENT_HEADMORPH_V1
 LENS_STUDIO_WEB_COMPONENT_HEADMORPH_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST
+LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_MERGE
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_aj0fjm2p
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1_TEST
@@ -2817,6 +2819,7 @@ RND-1234_FULL_FRAME_ML_v10_pointillism_painting_art_pointillism_oil_painting_bas
 RND-1234_FULL_FRAME_ML_v11_a_painting_made_entirely_of_dots_the_dot_pattern_depicts_dot_pattern_illustration_base__V1
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V3
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V4
+RND-12603-benson-boone
 RND-12759_technical_ml_model_test_v2_full_frame_shojo_1500k_decoder
 RND-12759_technical_ml_model_test_v2_full_frame_shojo_1500k_encoder
 RND-12759_technical_ml_model_test_v2_full_frame_shojo_30m
@@ -3919,7 +3922,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-21_
+_Last updated on 2025-05-22_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
