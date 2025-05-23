@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3917 in total).  
+List of all available assets for download (currently 3918 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2819,6 +2819,7 @@ RND-1234_FULL_FRAME_ML_v10_pointillism_painting_art_pointillism_oil_painting_bas
 RND-1234_FULL_FRAME_ML_v11_a_painting_made_entirely_of_dots_the_dot_pattern_depicts_dot_pattern_illustration_base__V1
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V3
 RND-1234_FULL_FRAME_ML_v16_big_dark_cat_eyes_cartoon_fancy_character_dark_makeup_3d_style_cartoon_base__V4
+RND-12513_medieval_portraits_fast_dreams_1p
 RND-12603-benson-boone
 RND-12759_technical_ml_model_test_v2_full_frame_shojo_1500k_decoder
 RND-12759_technical_ml_model_test_v2_full_frame_shojo_1500k_encoder
@@ -3922,7 +3923,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-22_
+_Last updated on 2025-05-23_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
