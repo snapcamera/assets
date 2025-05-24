@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3918 in total).  
+List of all available assets for download (currently 3931 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -411,6 +411,11 @@ BRANDED-1099_nyx_bb_color_palette_v2
 BRANDED-1099_nyx_bb_color_palette_v3
 BRANDED-1099_nyx_bb_color_palette_v4
 BRANDED-1099_nyx_bb_color_palette_v5
+BRANDED-1099_v1_nyx_fixed_distill_5configs_v2_up
+BRANDED-1099_v2_nyx_fixed_distill_5configs_v2_up
+BRANDED-1099_v3_nyx_fixed_distill_5configs_v2_up
+BRANDED-1099_v4_nyx_fixed_distill_5configs_v2_up
+BRANDED-1099_v5_nyx_fixed_distill_5configs_v2_up
 BRANDED-1300_paramount_pictures_transformers_one
 BRANDED-2662_minecraft_movie_blockify_your_world
 BRANDED-3304_coca_cola_vending_machine_2025_baloon_head
@@ -1909,6 +1914,7 @@ LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_0f0zaxsh
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4p2fh7ta
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_4y5rs5k8
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_6jqgjcpf
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_71p6wlww
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_9jqlci2n
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_djdpdrnl
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jirigfta
@@ -1969,6 +1975,7 @@ LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST_OUTDATED_TEMPLATE_CORE
 LENS_STUDIO_MOBILE_COMPONENT_ML_FACE_V1_TEST_UPDATER
 LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1
 LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1_TEST
+LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1_TEST_MERGE
 LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1_TEST_OUTDATED_TEMPLATE_CORE
 LENS_STUDIO_MOBILE_COMPONENT_ML_IMMERSIVE_V1_TEST_UPDATER
 LENS_STUDIO_MOBILE_COMPONENT_MORPH_V1
@@ -2008,10 +2015,13 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_1g3acu0z
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_28mh92jq
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_2glr8h85
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_6fduytpo
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_8rzteh46
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_h5qwwxoh
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_i7xfu3kj
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_isnow7jh
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ki5dx9ad
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_m73gydp6
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_n8wd0bzl
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_nyebxyhu
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
@@ -2044,6 +2054,7 @@ LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_MERGE
 LENS_STUDIO_WEB_COMPONENT_ML_FACE_V1_TEST_aj0fjm2p
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1
 LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1_TEST
+LENS_STUDIO_WEB_COMPONENT_ML_IMMERSIVE_V1_TEST_MERGE
 LENS_STUDIO_WEB_COMPONENT_MORPH_V1
 LENS_STUDIO_WEB_COMPONENT_MORPH_V1_TEST_1pvmx6wm
 LENS_STUDIO_WEB_COMPONENT_MORPH_V1_TEST_droky0uo
@@ -3744,6 +3755,7 @@ Snapflix_ML_Beauty_V3
 Snapflix_ML_Beauty_V4
 Snapflix_ML_Beauty_V5
 Snapflix_ML_Beauty_V6
+SoundPrefabTest
 Sour_A_25200
 Sour_B_25201
 Stable_Diffusion_Full_Screen_Retouch_azovya_photoreal
@@ -3793,6 +3805,7 @@ base_ema_unfriendly_10_concepters_v3_d2_ip2p_christmas_last_ema_aggressive_only_
 base_ema_unfriendly_10_concepters_v3_d2_ip2p_christmas_last_ema_base
 base_patricks_anime_strength_1_step260000_ema
 basketballMCTest
+basketballMCTest001
 blonde
 blue_mint
 bob-v1-2_final
@@ -3923,7 +3936,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-23_
+_Last updated on 2025-05-24_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
