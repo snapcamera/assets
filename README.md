@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3931 in total).  
+List of all available assets for download (currently 3937 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2602,6 +2602,10 @@ LORG-17297_org_techfull_frame_ml_chibi_fantasy_2025_26726-6728-large
 LORG-17303_org_techfull_frame_ml_futuristic_digital_mood_2025
 LORG-17309_org_techfull_frame_ml_made_of_fire_2025
 LORG-17460_org_techfull_frame_ml_cute_style_2025
+LORG-18129_org_techfull_frame_ml_pretty_face_2025
+LORG-18135_org_techfull_frame_ml_vintage_tattoo_style_2025
+LORG-18153_org_techfull_frame_ml_wood_2025
+LORG-18165_org_techfull_frame_ml_doll_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3873,6 +3877,8 @@ lorg-13743_full_mouth_snapflixmorphing_2025
 lorg_13654_curious_face_snapflixmorphing_2025
 lorg_13825_annoyed_face_snapflixmorphing_2025
 lorg_14265_nostrils_v2
+lorg_16915_26776_6741_large
+lorg_16915_26780-6740_large
 lorg_7031_struggle_v2
 magical_elf_25551
 merging_full_frame_ml_test
@@ -3936,7 +3942,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-25_
+_Last updated on 2025-05-27_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
