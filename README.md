@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3937 in total).  
+List of all available assets for download (currently 3946 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1920,6 +1920,7 @@ LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_djdpdrnl
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jirigfta
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jtvgrkzc
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_lq59pkus
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_w95ue5mt
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_x1c4tl9j
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_4qj8uaaq
@@ -2017,6 +2018,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_28mh92jq
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_2glr8h85
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_6fduytpo
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_8rzteh46
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_dzqve71e
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_h5qwwxoh
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_i7xfu3kj
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_isnow7jh
@@ -2602,9 +2604,16 @@ LORG-17297_org_techfull_frame_ml_chibi_fantasy_2025_26726-6728-large
 LORG-17303_org_techfull_frame_ml_futuristic_digital_mood_2025
 LORG-17309_org_techfull_frame_ml_made_of_fire_2025
 LORG-17460_org_techfull_frame_ml_cute_style_2025
+LORG-17976_new_beauty_2_snapflixbeauty_2025_v1
+LORG-17976_new_beauty_2_snapflixbeauty_2025_v2
+LORG-17976_new_beauty_2_snapflixbeauty_2025_v3
+LORG-17976_new_beauty_2_snapflixbeauty_2025_v4
 LORG-18129_org_techfull_frame_ml_pretty_face_2025
 LORG-18135_org_techfull_frame_ml_vintage_tattoo_style_2025
+LORG-18141
+LORG-18147
 LORG-18153_org_techfull_frame_ml_wood_2025
+LORG-18159
 LORG-18165_org_techfull_frame_ml_doll_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
@@ -3942,7 +3951,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-27_
+_Last updated on 2025-05-28_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
