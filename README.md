@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3946 in total).  
+List of all available assets for download (currently 3949 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2581,6 +2581,7 @@ LORG-16736_org_techfull_frame_ml_me_in_anime_style_2025
 LORG-16762_org_techfull_frame_ml_luxury_old_style_2025
 LORG-16770_org_techfull_frame_ml_beautiful_20s_2025
 LORG-16802_org_techfull_frame_ml_cartoon_character_2025
+LORG-16846_org_techfull_frame_ml_kpop_demon_hunters_entertainment_2025
 LORG-16937
 LORG-17160_snap_plus_exclusive_large_01a
 LORG-17160_snap_plus_exclusive_large_01b
@@ -2615,6 +2616,7 @@ LORG-18147
 LORG-18153_org_techfull_frame_ml_wood_2025
 LORG-18159
 LORG-18165_org_techfull_frame_ml_doll_2025
+LORG-18240_org_techfull_frame_ml_black_and_white_beauty_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2836,6 +2838,7 @@ RND-11719_4_in_1_randomiser_full_frame_ml_v9_009_fluffy_chicken_texture_yello
 RND-12108_holographic_coat_full_frame_ml_v19_019_magical_realism_bright_colour_weighted
 RND-12217-dependable
 RND-12217-sneaky-face
+RND-12217_1p_dream_faceanimator_eye_roll_plt2_v1
 RND-12267_ui_denim_look_v2_full_frame_ml_v21_021_messy_voluminous_1980s_hair_detailed_white_t_shirt_oversized
 RND-12267_ui_denim_look_v2_full_frame_ml_v2_002_college_age_school_photo_curly_hair
 RND-12267_ui_denim_look_v2_full_frame_ml_v3_003_1986_school_photo_high_hair_jeans
@@ -3951,7 +3954,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-28_
+_Last updated on 2025-05-29_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
