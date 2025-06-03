@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3952 in total).  
+List of all available assets for download (currently 3956 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1126,6 +1126,9 @@ FND-4818_LENS_MAKER_TEST
 FND-5106-QNA-LENSMAKER-MOBILE-v1
 FaceSwap136
 FaceSwapNew
+FaceSwap_RND-12900
+FaceSwap_embedder_RND-12900
+FaceSwap_generator_RND-12900
 Face_swap_cartoon_6sec_texture
 Face_swap_supermarket_assets
 FantasyTigerFace1_25007
@@ -1917,6 +1920,7 @@ LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_6jqgjcpf
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_71p6wlww
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_9jqlci2n
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_djdpdrnl
+LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_epuf87s3
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jirigfta
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_jtvgrkzc
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_lq59pkus
@@ -3957,7 +3961,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-05-31_
+_Last updated on 2025-06-03_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
