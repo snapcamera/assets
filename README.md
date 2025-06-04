@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3956 in total).  
+List of all available assets for download (currently 3967 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1119,6 +1119,8 @@ EVASYLEVA_TEST_3
 EVASYLEVA_TEST_6
 Egg_Face_25316
 FACE_SWAP_ON_DEVICE_COMMUNITY
+FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER
+FACE_SWAP_ON_DEVICE_COMMUNITY_GENERATOR
 FLYING_CEILING
 FLYING_CEILING_TEST
 FND-4490-Face-Swap-3
@@ -2622,8 +2624,17 @@ LORG-18153_org_techfull_frame_ml_wood_2025
 LORG-18159
 LORG-18165_org_techfull_frame_ml_doll_2025
 LORG-18240_org_techfull_frame_ml_black_and_white_beauty_2025
+LORG-18345_org_techfull_frame_ml_cute_dark_style_2025
 LORG-18350_org_techfull_frame_ml_cutie_pie_2025
 LORG-18356_org_techfull_frame_ml_cinematic_face_2025
+LORG-18584_org_techfull_frame_ml_me_as_elf_2025
+LORG-18595_org_techfull_frame_ml_alien_2025
+LORG-18601_org_techfull_frame_ml_horror_style_2025
+LORG-18607_org_techfull_frame_ml_stargazing_2025
+LORG-18613_26904
+LORG-18619_org_techfull_frame_ml_cool_look_2025
+LORG-18625_26929
+LORG-18631_26941
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3961,7 +3972,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-03_
+_Last updated on 2025-06-04_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
