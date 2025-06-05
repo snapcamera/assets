@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3967 in total).  
+List of all available assets for download (currently 3972 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1929,6 +1929,7 @@ LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_lq59pkus
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_w95ue5mt
 LENS_STUDIO_MOBILE_COMPONENT_APPEARANCE_V1_TEST_x1c4tl9j
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1
+LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_2omctinx
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_4qj8uaaq
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_5joqb1y2
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_ay11zuy6
@@ -2038,6 +2039,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_sb7o0g6q
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_ebg5xe3d
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_fosczriw
+LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_klxmtjjf
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_t53npbiw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
@@ -2096,6 +2098,7 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m5g71r6b
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m8naruu4
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qe9u0nqd
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qnbvra9h
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_r3105qit
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ry4jvdpu
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_sgma5t3x
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ui0w4c18
@@ -2627,6 +2630,8 @@ LORG-18240_org_techfull_frame_ml_black_and_white_beauty_2025
 LORG-18345_org_techfull_frame_ml_cute_dark_style_2025
 LORG-18350_org_techfull_frame_ml_cutie_pie_2025
 LORG-18356_org_techfull_frame_ml_cinematic_face_2025
+LORG-18481_25253991
+LORG-18568_org_techfull_frame_ml_retro_fantastic_2025
 LORG-18584_org_techfull_frame_ml_me_as_elf_2025
 LORG-18595_org_techfull_frame_ml_alien_2025
 LORG-18601_org_techfull_frame_ml_horror_style_2025
@@ -3972,7 +3977,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-04_
+_Last updated on 2025-06-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
