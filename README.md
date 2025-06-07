@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3974 in total).  
+List of all available assets for download (currently 3992 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -37,6 +37,7 @@ See the last section for instructions on [how to download the assets](#download-
 12155_green_dendy
 123123123_testo
 123123_testo
+1234_Test_example_remove_me
 14386-1979-base
 14393-2280-base
 14450-1722-base
@@ -2003,6 +2004,7 @@ LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7jvxdsbv
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7khfz7xn
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_abaahx1j
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_av5kt62p
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_c6f68byf
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ea2022a5
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_eimyyqqi
@@ -2090,6 +2092,7 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_9ulxv4fi
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_aa8wiurx
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_bsk2fwv7
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_bvl8w528
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ecyft7em
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_enbcu6u9
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_eszj4tsy
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_jzyqsxdu
@@ -2452,6 +2455,7 @@ LER-5381_dr_evil_1_person
 LER-5686_dolls_heart
 LER_5381_Dr_Evil_2022.prfb
 LER_5381_Dr_Evil_2022_2person_separate
+LORG-0000_26668-6715-large
 LORG-10140_huge_lips_snapflixmorphing_2024
 LORG-10269_snap_plus_dark_anime_v1
 LORG-10269_snap_plus_dark_anime_v2
@@ -2823,10 +2827,20 @@ RND-10338_merging_full_frame_ml_v2_002_fireman_s_helmet_beige_firefighter_unifor
 RND-10339_merging_full_frame_ml
 RND-10339_merging_full_frame_ml_v4_004_construction_worker_in_orange_safety_helmet_and_orange_overa
 RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_colorful_illustration
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_colorful_illustration_base
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_colorful_illustration_large
 RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_gelato
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_gelato_base
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_gelato_large
 RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_geometric
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_geometric_base
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_geometric_large
 RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_pinkglitter
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_pinkglitter_base
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_pinkglitter_large
 RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_voxel
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_voxel_base
+RND-10952_ai_snapfusion_on_device_sf_lora_vs_distill_ml_teststill_photo_output_voxel_large
 RND-1102_prank_ml_easy_lens
 RND-11050_test_of_datasets_full_frame_ml_v1_001_A_portrait_in_the_style_of_b
 RND-11050_test_of_datasets_full_frame_ml_v1_003_A_portrait_in_the_style_of_b_retouch
@@ -3954,6 +3968,10 @@ test_cof_fullscreen_23815796-6548621-large
 test_cof_fullscreen_23830691-6529821-large
 test_cof_generate_auto_23815796-6548621-large
 test_cof_launcher_23815796-6548621-large
+test_cof_uploader_26668-6715-large
+test_cof_uploader_v2_LORG-16055_22304450-6134645-large
+test_cof_uploader_v2_LORG-16666_23337832-6375473-large
+test_cof_uploader_v3_LORG-16666_23337832-6375473-large_v2
 test_fullscreen_ml_auto
 test_fullscreen_ml_auto_project
 test_fullscreen_ml_auto_project_26668-6715-large
@@ -3979,7 +3997,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-06_
+_Last updated on 2025-06-07_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
