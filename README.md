@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 3992 in total).  
+List of all available assets for download (currently 4002 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1934,6 +1934,7 @@ LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_2omctinx
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_4qj8uaaq
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_5joqb1y2
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_ay11zuy6
+LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_debxhjs9
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_f4f2jrf9
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_iq6gehij
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_jhed3tky
@@ -2036,6 +2037,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_m73gydp6
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_n8wd0bzl
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_nyebxyhu
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ril5imz3
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_rt1u8k2j
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_sb7o0g6q
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
@@ -2599,6 +2601,8 @@ LORG-16937
 LORG-17160_snap_plus_exclusive_large_01a
 LORG-17160_snap_plus_exclusive_large_01b
 LORG-17160_snap_plus_exclusive_large_01c
+LORG-17163_snap_plus_exclusive_dark_japanese_style_ff_ml_26840
+LORG-17163_snap_plus_exclusive_dark_japanese_style_ff_ml_26842
 LORG-17200_org_techfull_frame_ml_cyberpunk_manga_2025
 LORG-17206_org_techfull_frame_ml_pixel_perfect_2025
 LORG-17212_org_techfull_frame_ml_dreamy_soft_pastel_2025
@@ -2851,6 +2855,12 @@ RND-11097_test_models_full_frame_ml_v2_mid_sr
 RND-11097_test_models_full_frame_ml_v3_low_resize_mid_sr
 RND-11097_test_models_full_frame_ml_v4_low_scale_mid_sr
 RND-11097_test_models_full_frame_ml_v5_low_mid_high_sr
+RND-11161_anime_11_1_dark_aesthetic_base
+RND-11161_anime_11_1_dark_aesthetic_large
+RND-11161_anime_4_lollipop_sweetness_base
+RND-11161_anime_4_lollipop_sweetness_large
+RND-11161_pixel_2_3_game_retro_green_blue_atmosphere_base
+RND-11161_pixel_2_3_game_retro_green_blue_atmosphere_large
 RND-11310_vintage_hair_3d_to_ml_2025_vintage_base
 RND-11311_shark_head_3d_ml_2warp
 RND-11311_shark_head_3d_ml_base
@@ -3997,7 +4007,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-10_
+_Last updated on 2025-06-11_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
