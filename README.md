@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4002 in total).  
+List of all available assets for download (currently 4013 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1946,6 +1946,7 @@ LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_qmxucpia
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_vp2cbluv
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_wae4bstw
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_wmd02km6
+LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_woot552a
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_wqp1kurp
 LENS_STUDIO_MOBILE_COMPONENT_BACKGROUND_V1_TEST_y1hsbgdt
 LENS_STUDIO_MOBILE_COMPONENT_BITMOJI_V1
@@ -2006,6 +2007,7 @@ LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7jvxdsbv
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7khfz7xn
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_abaahx1j
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_av5kt62p
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_bq172k01
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_c6f68byf
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ea2022a5
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_eimyyqqi
@@ -2045,6 +2047,7 @@ LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_ebg5xe3d
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_fosczriw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_klxmtjjf
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_nj7j0b5v
+LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_rm3056cb
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_t53npbiw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_umudvyjw
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_xpiflqrw
@@ -2086,6 +2089,7 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_0rqq3cq6
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_28kmwr2i
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_2a20q8oj
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_309osmsm
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_3zu42nf1
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_4low1zzh
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_5e6nh7q9
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_69pu4uk2
@@ -2635,6 +2639,7 @@ LORG-18153_org_techfull_frame_ml_wood_2025
 LORG-18159
 LORG-18165_org_techfull_frame_ml_doll_2025
 LORG-18240_org_techfull_frame_ml_black_and_white_beauty_2025
+LORG-18271_org_techfull_frame_ml_analog_horror_2025
 LORG-18345_org_techfull_frame_ml_cute_dark_style_2025
 LORG-18350_org_techfull_frame_ml_cutie_pie_2025
 LORG-18356_org_techfull_frame_ml_cinematic_face_2025
@@ -2649,6 +2654,8 @@ LORG-18613_26904
 LORG-18619_org_techfull_frame_ml_cool_look_2025
 LORG-18625_26929
 LORG-18631_26941
+LORG-18637_org_techfull_frame_ml_school_look_2025_26938-6789-large
+LORG-18643_org_techfull_frame_ml_jeans_vintage_style_2025_26951-6792-large
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2918,6 +2925,8 @@ RND-1302_BUNDLE_V2_ML_3
 RND-1302_BUNDLE_V2_ML_4
 RND-1302_BUNDLE_V2_ML_5
 RND-1302_BUNDLE_V2_ML_6
+RND-13596_soft_evening_bokeh_instructflux_V1
+RND-13596_soft_evening_bokeh_instructflux_V2
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -3967,6 +3976,7 @@ rnd_3699_bundle_v13_makeup_cameos_ml
 satisfied_face_25560
 smile_every_day_25397
 soft_glitter
+summary_to_github_v1_example_remove_me
 test100
 test_111
 test_26668-6715-large
@@ -3988,6 +3998,7 @@ test_fullscreen_ml_auto_project_26668-6715-large
 test_large
 test_ml_fullscreen_23815796-6548621-large
 test_size_compresion_base_green_ml
+test_summary_example_remove_me
 thief_face_25552
 upset_kid_25462
 v11_relight_5in1_distillation_test_relighting_white_red_v1_gpu
@@ -4007,7 +4018,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-11_
+_Last updated on 2025-06-12_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
