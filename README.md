@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4018 in total).  
+List of all available assets for download (currently 4021 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2005,6 +2005,7 @@ LENS_STUDIO_MOBILE_COMPONENT_QNA_V1_TEST_ttti39d3
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST
 LENS_STUDIO_MOBILE_COMPONENT_SONIA_TEST_2
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_21gzu2rh
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_46m6e7t4
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7jvxdsbv
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_7khfz7xn
@@ -2109,6 +2110,8 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_jzyqsxdu
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_keeb2x7f
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m5g71r6b
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m8naruu4
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_nerytye4
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_on57ymjy
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qe9u0nqd
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qihde8hk
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qnbvra9h
@@ -4023,7 +4026,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-13_
+_Last updated on 2025-06-14_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
