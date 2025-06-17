@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4021 in total).  
+List of all available assets for download (currently 4033 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -422,6 +422,7 @@ BRANDED-2662_minecraft_movie_blockify_your_world
 BRANDED-3304_coca_cola_vending_machine_2025_baloon_head
 BRANDED-3304_coca_cola_vending_machine_2025_big_mouth
 BRANDED-3304_coca_cola_vending_machine_2025_hair
+BRANDED-3963_coca_cola_oasis_2025_carousel_lens_big_mouth
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
 Beard_India_ML_RND_201
@@ -2019,6 +2020,7 @@ LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_gygdzn3s
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_kcj5clw1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_mfb5z99h
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ngbe04sm
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_o5ao5gwh
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_q5mo1ch1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_qq307nzj
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_rr60yx1n
@@ -2039,6 +2041,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_dzqve71e
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_h5qwwxoh
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_i7xfu3kj
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_isnow7jh
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_j7ve9ml0
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ki5dx9ad
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_m73gydp6
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_n8wd0bzl
@@ -2047,6 +2050,7 @@ LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_qw3buqtz
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_ril5imz3
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_rt1u8k2j
 LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_sb7o0g6q
+LENS_STUDIO_WEB_COMPONENT_APPEARANCE_V1_TEST_v94o80mf
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_ebg5xe3d
 LENS_STUDIO_WEB_COMPONENT_BACKGROUND_V1_TEST_fosczriw
@@ -2108,6 +2112,7 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_enbcu6u9
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_eszj4tsy
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_jzyqsxdu
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_keeb2x7f
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ktqv1299
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m5g71r6b
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_m8naruu4
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_nerytye4
@@ -2116,8 +2121,10 @@ LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qe9u0nqd
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qihde8hk
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_qnbvra9h
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_r3105qit
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_rrl81rpz
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ry4jvdpu
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_sgma5t3x
+LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ttmh63a1
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_ui0w4c18
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_wxabky0f
 LENS_STUDIO_WEB_COMPONENT_TEXT_V1_TEST_xhq5y9dm
@@ -2664,6 +2671,7 @@ LORG-18625_26929
 LORG-18631_26941
 LORG-18637_org_techfull_frame_ml_school_look_2025_26938-6789-large
 LORG-18643_org_techfull_frame_ml_jeans_vintage_style_2025_26951-6792-large
+LORG-18898_yellow_eyeshadows_snapflixbeauty_yds_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2933,8 +2941,12 @@ RND-1302_BUNDLE_V2_ML_3
 RND-1302_BUNDLE_V2_ML_4
 RND-1302_BUNDLE_V2_ML_5
 RND-1302_BUNDLE_V2_ML_6
+RND-13595_analog_photo_instructflux_v3_003_hyper_realistic_Analog_photo_V1
+RND-13595_analog_photo_instructflux_v3_003_hyper_realistic_Analog_photo_V2
 RND-13596_soft_evening_bokeh_instructflux_V1
 RND-13596_soft_evening_bokeh_instructflux_V2
+RND-13597_watercolor_instructflux_v7_007_80_s_aesthetic_watercolour_s_V1
+RND-13597_watercolor_instructflux_v7_007_80_s_aesthetic_watercolour_s_V2
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4026,7 +4038,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-14_
+_Last updated on 2025-06-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
