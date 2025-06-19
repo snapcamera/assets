@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4051 in total).  
+List of all available assets for download (currently 4053 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2907,6 +2907,7 @@ RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_wit
 RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_with_d_2
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a_2
+RND-11531_clay_face_ml
 RND-11651_ear_tunnels_3d_to_ml_crop_base_step70000
 RND-11719_4_in_1_randomiser_full_frame_ml_v11_011_portrait_surrounded_by_daisi
 RND-11719_4_in_1_randomiser_full_frame_ml_v13_013_easter_colorful_field_of_flo
@@ -3925,6 +3926,7 @@ disgusting_face_26146
 dmckee_lp_espresso_24fps__onehot_finetune
 dmckee_lp_fuel_Simon1_1__onehot_finetune_random2
 dmckee_lp_mind_maze__onehot_finetune_random20_241029_base_step50000_ema
+dmckee_lp_von_dutch__onehot_finetune_random20_241016_base_step50000_base
 doll_25349
 doll_face_25525
 doll_face_25570
@@ -4056,7 +4058,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-18_
+_Last updated on 2025-06-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
