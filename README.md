@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4053 in total).  
+List of all available assets for download (currently 4058 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1967,6 +1967,8 @@ LENS_STUDIO_MOBILE_COMPONENT_FACEMORPH_V2_TEST1
 LENS_STUDIO_MOBILE_COMPONENT_FACE_INSETS_V1
 LENS_STUDIO_MOBILE_COMPONENT_FACE_INSETS_V1_TEST_nmlm645u
 LENS_STUDIO_MOBILE_COMPONENT_FACE_INSETS_V1_TEST_t43uglw3
+LENS_STUDIO_MOBILE_COMPONENT_FACE_INSETS_V1_TEST_vd5kr51a
+LENS_STUDIO_MOBILE_COMPONENT_FACE_INSETS_V1_TEST_xgz0q050
 LENS_STUDIO_MOBILE_COMPONENT_FACE_MORPH_V1_TEST_njg6tmt7
 LENS_STUDIO_MOBILE_COMPONENT_FILTER_V1
 LENS_STUDIO_MOBILE_COMPONENT_FILTER_V1_TEST_3e0rmabf
@@ -2073,6 +2075,8 @@ LENS_STUDIO_WEB_COMPONENT_BITMOJI_V1_TEST_MISHA
 LENS_STUDIO_WEB_COMPONENT_BODYMORPH_V1
 LENS_STUDIO_WEB_COMPONENT_BODYMORPH_V1_TEST
 LENS_STUDIO_WEB_COMPONENT_FACE_INSETS_V1
+LENS_STUDIO_WEB_COMPONENT_FACE_INSETS_V1_TEST_jas0q8om
+LENS_STUDIO_WEB_COMPONENT_FACE_INSETS_V1_TEST_x136r3wz
 LENS_STUDIO_WEB_COMPONENT_FACE_INSETS_V1_TEST_zyng1fnh
 LENS_STUDIO_WEB_COMPONENT_FACE_MORPH_V1_TEST_y523tn3a
 LENS_STUDIO_WEB_COMPONENT_FILTER_V1
@@ -2908,6 +2912,7 @@ RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_wit
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a_2
 RND-11531_clay_face_ml
+RND-11531_clay_full_frmae_ml_1
 RND-11651_ear_tunnels_3d_to_ml_crop_base_step70000
 RND-11719_4_in_1_randomiser_full_frame_ml_v11_011_portrait_surrounded_by_daisi
 RND-11719_4_in_1_randomiser_full_frame_ml_v13_013_easter_colorful_field_of_flo
@@ -4058,7 +4063,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-19_
+_Last updated on 2025-06-21_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
