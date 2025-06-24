@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4058 in total).  
+List of all available assets for download (currently 4062 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2027,11 +2027,13 @@ LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_mfb5z99h
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ngbe04sm
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_o0fndl73
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_o5ao5gwh
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_osjlxduh
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_p4usn2er
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_q5mo1ch1
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_q68nk3i9
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_qq307nzj
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_rr60yx1n
+LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ufzzwr12
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_yuhhi6yl
 LENS_STUDIO_MOBILE_HEADMORPH_COMPONENT_V1
 LENS_STUDIO_WEB_COMPONENTS_LIST_V1_TE
@@ -2889,10 +2891,12 @@ RND-11097_test_models_full_frame_ml_v2_mid_sr
 RND-11097_test_models_full_frame_ml_v3_low_resize_mid_sr
 RND-11097_test_models_full_frame_ml_v4_low_scale_mid_sr
 RND-11097_test_models_full_frame_ml_v5_low_mid_high_sr
+RND-11161_anime_11_1_dark_aesthetic
 RND-11161_anime_11_1_dark_aesthetic_base
 RND-11161_anime_11_1_dark_aesthetic_large
 RND-11161_anime_4_lollipop_sweetness_base
 RND-11161_anime_4_lollipop_sweetness_large
+RND-11161_pixel_2_3_game_retro_green_blue_atmosphere
 RND-11161_pixel_2_3_game_retro_green_blue_atmosphere_base
 RND-11161_pixel_2_3_game_retro_green_blue_atmosphere_large
 RND-11310_vintage_hair_3d_to_ml_2025_vintage_base
@@ -4063,7 +4067,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-21_
+_Last updated on 2025-06-24_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
