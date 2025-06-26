@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4062 in total).  
+List of all available assets for download (currently 4065 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2915,6 +2915,7 @@ RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_wit
 RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_with_d_2
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a_2
+RND-11531_clay_face_and_full_frame_ml_merged_v01
 RND-11531_clay_face_ml
 RND-11531_clay_full_frmae_ml_1
 RND-11651_ear_tunnels_3d_to_ml_crop_base_step70000
@@ -2973,6 +2974,7 @@ RND-13610_shimmering_iridescent_instructflux_v2_002_shimmering_iridescent_dress_
 RND-13610_shimmering_iridescent_instructflux_v2_002_shimmering_iridescent_dress_V2
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v1
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v2
+RND-14009_lewis_capaldi_survive
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -3279,6 +3281,7 @@ RND-4653_FULL_FRAME_ML_v12_the_style_of_ink_pen__blue_scale_ink_pen_base__V13
 RND-4653_FULL_FRAME_ML_v14_black_and_white__color_marker_sketch_concept_high_details_monochrome_marker_sketch_base__V14
 RND-4653_FULL_FRAME_ML_v15_charcoal_courtroom_sketch_monochrome_base__V15
 RND-4653_FULL_FRAME_ML_v16_exquisite_paper_cut_craftsmanship_colored_paper_sculpture_art_3d_relief_base__V10
+RND-4667_remote_asset_loader_test
 RND-4779_double_chin_3d_ml
 RND-4787_ESL_ML_15454_2182_V1
 RND-4787_ESL_ML_15477_2192_V2
@@ -4067,7 +4070,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-24_
+_Last updated on 2025-06-26_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
