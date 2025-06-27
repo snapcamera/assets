@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4065 in total).  
+List of all available assets for download (currently 4073 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2659,6 +2659,7 @@ LORG-17976_new_beauty_2_snapflixbeauty_2025_v1
 LORG-17976_new_beauty_2_snapflixbeauty_2025_v2
 LORG-17976_new_beauty_2_snapflixbeauty_2025_v3
 LORG-17976_new_beauty_2_snapflixbeauty_2025_v4
+LORG-18059_sphynx_cat_snapflixcat_related_themes3d_ml_2025
 LORG-18129_org_techfull_frame_ml_pretty_face_2025
 LORG-18135_org_techfull_frame_ml_vintage_tattoo_style_2025
 LORG-18141
@@ -2685,6 +2686,13 @@ LORG-18631_26941
 LORG-18637_org_techfull_frame_ml_school_look_2025_26938-6789-large
 LORG-18643_org_techfull_frame_ml_jeans_vintage_style_2025_26951-6792-large
 LORG-18898_yellow_eyeshadows_snapflixbeauty_yds_2025
+LORG-19659_org_techfull_frame_ml_rome_empire_2025_27023-6829-large
+LORG-19662_org_techfull_frame_ml_knight_2025_27024-6830-large
+LORG-19665_org_techfull_frame_ml_kook_2025_27049-6831-large
+LORG-19668_org_techfull_frame_ml_angel_2025_27040-6832-large
+LORG-19671_org_techfull_frame_ml_cosmo_2025_27060-6833-large
+LORG-19674_org_techfull_frame_ml_navy_2025_27093-6834-large
+LORG-19677_org_techfull_frame_ml_private_detective_2025_27098-6835-large
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -4070,7 +4078,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-26_
+_Last updated on 2025-06-27_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
