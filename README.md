@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4076 in total).  
+List of all available assets for download (currently 4080 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2676,6 +2676,7 @@ LORG-18345_org_techfull_frame_ml_cute_dark_style_2025
 LORG-18350_org_techfull_frame_ml_cutie_pie_2025
 LORG-18356_org_techfull_frame_ml_cinematic_face_2025
 LORG-18481_25253991
+LORG-18539_blush_butterflies_snapflixbeauty_2025
 LORG-18545_full_face_freckles_snapflixbeauty_2025
 LORG-18568_org_techfull_frame_ml_retro_fantastic_2025
 LORG-18584_org_techfull_frame_ml_me_as_elf_2025
@@ -2973,6 +2974,9 @@ RND-1302_BUNDLE_V2_ML_5
 RND-1302_BUNDLE_V2_ML_6
 RND-13555_FaceSwap_13M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_b-455k-256-full
 RND-13555_FaceSwap_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
+RND-13555_forehead_13M_internal_b_getty32_selfiesAI32_256_forehead_masks_full
+RND-13555_forehead_gen_emb_3M_internal_b_getty32_selfiesAI32_256_forehead_masks_embedder
+RND-13555_forehead_gen_emb_3M_internal_b_getty32_selfiesAI32_256_forehead_masks_generator
 RND-13595_analog_photo_instructflux_v3_003_hyper_realistic_Analog_photo_V1
 RND-13595_analog_photo_instructflux_v3_003_hyper_realistic_Analog_photo_V2
 RND-13596_soft_evening_bokeh_instructflux_V1
@@ -4081,7 +4085,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-06-28_
+_Last updated on 2025-07-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
