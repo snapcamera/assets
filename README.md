@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4080 in total).  
+List of all available assets for download (currently 4081 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2990,6 +2990,7 @@ RND-13610_shimmering_iridescent_instructflux_v2_002_shimmering_iridescent_dress_
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v1
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v2
 RND-14009_lewis_capaldi_survive
+RND-14111_porcelain_3d_ml_base
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4085,7 +4086,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-02_
+_Last updated on 2025-07-04_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
