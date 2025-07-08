@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4083 in total).  
+List of all available assets for download (currently 4088 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2931,6 +2931,7 @@ RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorfu
 RND-11531_clay_face_and_full_frame_ml_merged_v01
 RND-11531_clay_face_ml
 RND-11531_clay_full_frmae_ml_1
+RND-11531_clay_full_frmae_ml_2
 RND-11651_ear_tunnels_3d_to_ml_crop_base_step70000
 RND-11719_4_in_1_randomiser_full_frame_ml_v11_011_portrait_surrounded_by_daisi
 RND-11719_4_in_1_randomiser_full_frame_ml_v13_013_easter_colorful_field_of_flo
@@ -2992,6 +2993,10 @@ RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v1
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v2
 RND-14009_lewis_capaldi_survive
 RND-14111_porcelain_3d_ml_base
+RND-14118_full_frame_ml_body_avatars_001_blue_character_face_swap
+RND-14118_full_frame_ml_body_avatars_002_blue_character
+RND-14118_full_frame_ml_body_avatars_003_golden_warrior
+RND-14118_full_frame_ml_body_avatars_004_pixelated_hero
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4088,7 +4093,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-05_
+_Last updated on 2025-07-08_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
