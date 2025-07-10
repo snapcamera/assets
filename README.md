@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4088 in total).  
+List of all available assets for download (currently 4089 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2929,6 +2929,7 @@ RND-11448_open_mouth_dataset_test_full_frame_ml_v4_004_comic_style_character_wit
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a
 RND-11448_open_mouth_dataset_test_full_frame_ml_v5_005_Art_Nouveau_style_colorful_a_2
 RND-11531_clay_face_and_full_frame_ml_merged_v01
+RND-11531_clay_face_and_full_frame_ml_merged_v02
 RND-11531_clay_face_ml
 RND-11531_clay_full_frmae_ml_1
 RND-11531_clay_full_frmae_ml_2
@@ -4093,7 +4094,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-08_
+_Last updated on 2025-07-10_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
