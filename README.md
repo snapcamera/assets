@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4089 in total).  
+List of all available assets for download (currently 4091 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2698,6 +2698,7 @@ LORG-19668_org_techfull_frame_ml_angel_2025_27040-6832-large
 LORG-19671_org_techfull_frame_ml_cosmo_2025_27060-6833-large
 LORG-19674_org_techfull_frame_ml_navy_2025_27093-6834-large
 LORG-19677_org_techfull_frame_ml_private_detective_2025_27098-6835-large
+LORG-20491
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -2995,6 +2996,7 @@ RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v2
 RND-14009_lewis_capaldi_survive
 RND-14111_porcelain_3d_ml_base
 RND-14118_full_frame_ml_body_avatars_001_blue_character_face_swap
+RND-14118_full_frame_ml_body_avatars_001_blue_character_face_swap_test
 RND-14118_full_frame_ml_body_avatars_002_blue_character
 RND-14118_full_frame_ml_body_avatars_003_golden_warrior
 RND-14118_full_frame_ml_body_avatars_004_pixelated_hero
@@ -4094,7 +4096,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-10_
+_Last updated on 2025-07-12_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
