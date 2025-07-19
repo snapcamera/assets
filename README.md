@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4099 in total).  
+List of all available assets for download (currently 4100 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3968,6 +3968,7 @@ branded-2330_3d_avatar_pitch
 cameo-office_play_assets
 cameo-office_play_videoreader_assets
 config_
+dbondarenko_test_18_jul
 disgusting_face_26146
 dmckee_lp_espresso_24fps__onehot_finetune
 dmckee_lp_fuel_Simon1_1__onehot_finetune_random2
@@ -4104,7 +4105,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-18_
+_Last updated on 2025-07-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
