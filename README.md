@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4100 in total).  
+List of all available assets for download (currently 4101 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2706,6 +2706,7 @@ LORG-19668_org_techfull_frame_ml_angel_2025_27040-6832-large
 LORG-19671_org_techfull_frame_ml_cosmo_2025_27060-6833-large
 LORG-19674_org_techfull_frame_ml_navy_2025_27093-6834-large
 LORG-19677_org_techfull_frame_ml_private_detective_2025_27098-6835-large
+LORG-19933_rainbow_makeup_snapflixbeauty_2025
 LORG-20491
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
@@ -4105,7 +4106,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-07-19_
+_Last updated on 2025-07-22_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
