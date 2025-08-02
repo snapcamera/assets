@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4125 in total).  
+List of all available assets for download (currently 4127 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -429,6 +429,8 @@ BRANDED-3393_locations_data_v1
 BRANDED-3393_shop_debug
 BRANDED-3393_shop_no_audio
 BRANDED-3393_shop_no_audio_debug
+BRANDED-3608_BURGER_DASH_NO_SOUND
+BRANDED-3608_BURGER_DASH_SOUND
 BRANDED-3901_birdie_dream_flight
 BRANDED-3901_birdie_dream_flight_no_music
 BRANDED-3923_FFT_config
@@ -4130,7 +4132,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-01_
+_Last updated on 2025-08-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
