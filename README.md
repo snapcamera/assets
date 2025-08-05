@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4127 in total).  
+List of all available assets for download (currently 4144 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3021,6 +3021,17 @@ RND-13610_shimmering_iridescent_instructflux_v2_002_shimmering_iridescent_dress_
 RND-13610_shimmering_iridescent_instructflux_v2_002_shimmering_iridescent_dress_V2
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v1
 RND-13611_cubism_style_painting_instructflux_v8_008_a_cubism_style_painting_v2
+RND-13614-13.6M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_b-455k-256-embedder
+RND-13614-13.6M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_b-455k-256-full
+RND-13614-13.6M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_b-455k-256-generator
+RND-13614-5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
+RND-13614-5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
+RND-13614-5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
+RND-13614_2.8M_internal_b_getty32_selfiesAI32_256_blur_and_masks-final-256-with-occlusions-embedder
+RND-13614_2.8M_internal_b_getty32_selfiesAI32_256_blur_and_masks-final-256-with-occlusions-embedder.dnn
+RND-13614_2.8M_internal_b_getty32_selfiesAI32_256_blur_and_masks-final-256-with-occlusions-full
+RND-13614_2.8M_internal_b_getty32_selfiesAI32_256_blur_and_masks-final-256-with-occlusions-generator
+RND-13614_2.8M_internal_b_getty32_selfiesAI32_256_blur_and_masks-final-256-with-occlusions-generator.dnn
 RND-14009_lewis_capaldi_survive
 RND-14111_porcelain_3d_ml_base
 RND-14118_full_frame_ml_body_avatars_001_blue_character_face_swap
@@ -3033,6 +3044,12 @@ RND-14537_004_skull_head
 RND-14537_005_anatomic_head
 RND-14537_006_shroom_head
 RND-14537_007_heavy_makeup
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-embedder
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-full
+RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-generator
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4132,7 +4149,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-02_
+_Last updated on 2025-08-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
