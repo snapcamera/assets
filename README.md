@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4144 in total).  
+List of all available assets for download (currently 4155 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -424,6 +424,7 @@ BRANDED-3304_coca_cola_vending_machine_2025_big_mouth
 BRANDED-3304_coca_cola_vending_machine_2025_hair
 BRANDED-3393_fry_frenzie_game
 BRANDED-3393_fry_frenzie_game_debug
+BRANDED-3393_fry_frenzie_game_debug_no_retain_assets
 BRANDED-3393_locations_data
 BRANDED-3393_locations_data_v1
 BRANDED-3393_shop_debug
@@ -3040,10 +3041,20 @@ RND-14118_full_frame_ml_body_avatars_002_blue_character
 RND-14118_full_frame_ml_body_avatars_003_golden_warrior
 RND-14118_full_frame_ml_body_avatars_004_pixelated_hero
 RND-14537_000_strawberry_head
+RND-14537_000_strawberry_head_v2
+RND-14537_001_heavy_makeup_v2
+RND-14537_002_sea_creature_v2
+RND-14537_003_squid_v2
+RND-14537_004_decaying_pale_face_v2
 RND-14537_004_skull_head
 RND-14537_005_anatomic_head
 RND-14537_006_shroom_head
 RND-14537_007_heavy_makeup
+RND-14779_pink_kitty_body_avatar_ml_p0_1
+RND-14779_pink_kitty_body_avatar_ml_p0_2
+RND-14783_strong_cucumber_body_avatar_ml_p0_2
+RND-14785_banana_style_body_avatar_ml_p0_3
+RND-14787_tired_cucumber_body_avatar_ml_p0_5
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
@@ -4149,7 +4160,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-05_
+_Last updated on 2025-08-06_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
