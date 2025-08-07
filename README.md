@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4155 in total).  
+List of all available assets for download (currently 4176 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -427,13 +427,16 @@ BRANDED-3393_fry_frenzie_game_debug
 BRANDED-3393_fry_frenzie_game_debug_no_retain_assets
 BRANDED-3393_locations_data
 BRANDED-3393_locations_data_v1
+BRANDED-3393_remote_asset_test
 BRANDED-3393_shop_debug
 BRANDED-3393_shop_no_audio
 BRANDED-3393_shop_no_audio_debug
+BRANDED-3608_BURGER_DASH_DEBUG
 BRANDED-3608_BURGER_DASH_NO_SOUND
 BRANDED-3608_BURGER_DASH_SOUND
 BRANDED-3901_birdie_dream_flight
 BRANDED-3901_birdie_dream_flight_no_music
+BRANDED-3901_birdie_dream_flight_single_game
 BRANDED-3923_FFT_config
 BRANDED-3923_glasses_scene
 BRANDED-3923_glasses_scene_with_sound
@@ -3055,6 +3058,8 @@ RND-14779_pink_kitty_body_avatar_ml_p0_2
 RND-14783_strong_cucumber_body_avatar_ml_p0_2
 RND-14785_banana_style_body_avatar_ml_p0_3
 RND-14787_tired_cucumber_body_avatar_ml_p0_5
+RND-14793_rat_body_avatar_ml_p0_10
+RND-14794_p0_11_sketchy_person
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
@@ -3795,7 +3800,13 @@ RND-9208_st_patricks_day_v4_patricks_distillation_3configs_st_patrick_v161
 RND-9208_st_patricks_day_v8_st_patrick_distillation_part2_patrick_style_v17
 RND-9208_st_patricks_day_v9_st_patrick_distillation_part2_patrick_style_v28
 RND-9208_st_patricks_day_v9_st_patrick_distillation_part2_patrick_style_v28_xlarge
+RND-9236_expressive_doodles_distilled_full_frame_ml_v1-11
+RND-9236_expressive_doodles_distilled_full_frame_ml_v1-9a
+RND-9239_intr_patterns_v2_27199-6865
+RND-9239_v2_intr_patterns_v2_cs_distill
 RND-923_summer_kiss_ml_easy_lens
+RND-9240_cosmic_fantasy_v7_27198-6864
+RND-9240_v1_cosmic_fantasy_v7_cs_distill
 RND-9243_dreamy_night_distilled_full_frame_ml_v1_dreamy_distillation_3configs_blended_diffusion_dreamy_night_v2_60k
 RND-9243_dreamy_night_distilled_full_frame_ml_v2_dreamy_distillation_3configs_blended_diffusion_dreamy_night_v13
 RND-9244_painted_distilled_full_frame_ml_v4_painted_3configs_distillation_painted_v1
@@ -4111,6 +4122,16 @@ oldFS5
 oldFS5M
 one_more_test_project_26726-6728-large
 one_more_test_project_26726-6728-large-2
+p0_10_base
+p0_12_base
+p0_13_base
+p0_14_base
+p0_4_base
+p0_5_base
+p0_7_base
+p0_8_base
+p0_9_base
+p2_2_base
 post_impressionism_artwork_full_frame
 rnd_3699_bundle_v13_makeup_cameos_ml
 satisfied_face_25560
@@ -4160,7 +4181,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-06_
+_Last updated on 2025-08-07_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
