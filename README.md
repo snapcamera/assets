@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4176 in total).  
+List of all available assets for download (currently 4195 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -447,9 +447,13 @@ BRANDED-3963_coca_cola_oasis_2025_carousel_lens_big_mouth
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
 BRANDED_2740_HOGWARDS_CHESS
+BRANDED_2740_HOGWARDS_CHESS_ONE_BITMOJI_TEST
 BRANDED_2740_HOGWARDS_GOBLET
+BRANDED_2740_HOGWARDS_GOBLET_ONE_BITMOJI_TEST
 BRANDED_2740_HOGWARDS_LETTERS
+BRANDED_2740_HOGWARDS_LETTERS_ONE_BITMOJI_TEST
 BRANDED_2740_HOGWARDS_PLATFORM
+BRANDED_2740_HOGWARDS_PLATFORM_ONE_BITMOJI_TEST
 Beard_India_ML_RND_201
 Beauty_25600
 Begging_eye_2_24833-5806
@@ -2731,6 +2735,8 @@ LORG-20491
 LORG-20608
 LORG-20723_bad_guys_2_dark_noir_glasses_snapflixglass_features_2025
 LORG-21083_natural_beauty_snapflixbeauty_2025
+LORG-21309_snap_plus_remix_dark_anime_eye_patch_v1
+LORG-21309_snap_plus_remix_dark_anime_eye_patch_v2
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3050,8 +3056,11 @@ RND-14537_002_sea_creature_v2
 RND-14537_003_squid_v2
 RND-14537_004_decaying_pale_face_v2
 RND-14537_004_skull_head
+RND-14537_005_200000_blink
 RND-14537_005_anatomic_head
+RND-14537_006_200000_blink
 RND-14537_006_shroom_head
+RND-14537_0076_200000_blink
 RND-14537_007_heavy_makeup
 RND-14779_pink_kitty_body_avatar_ml_p0_1
 RND-14779_pink_kitty_body_avatar_ml_p0_2
@@ -3066,6 +3075,15 @@ RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-g
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-generator
+RND-14988_HGen_type1_AdaConv_styleid0_24_largenas_mlp_adaconv
+RND-14988_HGen_type1_AdaConv_styleid0_3_largenas_mlp_adaconv
+RND-14988_HGen_type1_AdaConv_styleid1_28_largenas_mlp_adaconv
+RND-14988_HGen_type2_AdaConv_AdaBN_styleid0_24_largenas_adaconv_adabn
+RND-14988_HGen_type2_AdaConv_AdaBN_styleid0_3_largenas_adaconv_adabn
+RND-14988_HGen_type2_AdaConv_AdaBN_styleid1_28_largenas_adaconv_adabn
+RND-14988_ImmersiveML_001_watercolor_style_soft_brushstrokes_with_abstract_watercolor_spla_largenas_step30000_ema
+RND-14988_ImmersiveML_005_deep_focus_cyber_character_light_green_color_hair_brightly_color_largenas_step30000_ema
+RND-14988_ImmersiveML_007_isometric_style_art_bright_animation_3d_style_Halloween_cartoon__largenas_step30000_ema
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4128,6 +4146,7 @@ p0_13_base
 p0_14_base
 p0_4_base
 p0_5_base
+p0_6_base
 p0_7_base
 p0_8_base
 p0_9_base
@@ -4181,7 +4200,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-07_
+_Last updated on 2025-08-08_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
