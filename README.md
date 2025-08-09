@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4195 in total).  
+List of all available assets for download (currently 4196 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -443,6 +443,7 @@ BRANDED-3923_glasses_scene_with_sound
 BRANDED-3923_grimace_config
 BRANDED-3924_step_into_mcdonaldland_lens
 BRANDED-3924_step_into_mcdonaldland_lens_no_audio
+BRANDED-3924_step_into_mcdonaldland_lens_volcano
 BRANDED-3963_coca_cola_oasis_2025_carousel_lens_big_mouth
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
@@ -4200,7 +4201,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-08_
+_Last updated on 2025-08-09_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
