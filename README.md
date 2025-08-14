@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4200 in total).  
+List of all available assets for download (currently 4206 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3089,6 +3089,12 @@ RND-14988_HGen_type2_AdaConv_AdaBN_styleid1_28_largenas_adaconv_adabn
 RND-14988_ImmersiveML_001_watercolor_style_soft_brushstrokes_with_abstract_watercolor_spla_largenas_step30000_ema
 RND-14988_ImmersiveML_005_deep_focus_cyber_character_light_green_color_hair_brightly_color_largenas_step30000_ema
 RND-14988_ImmersiveML_007_isometric_style_art_bright_animation_3d_style_Halloween_cartoon__largenas_step30000_ema
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-embedder
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-full
+RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-generator
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4205,7 +4211,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-13_
+_Last updated on 2025-08-14_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
