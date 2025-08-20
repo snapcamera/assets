@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4206 in total).  
+List of all available assets for download (currently 4209 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3080,6 +3080,9 @@ RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-g
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-generator
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_embedder
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_full
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_generator
 RND-14988_HGen_type1_AdaConv_styleid0_24_largenas_mlp_adaconv
 RND-14988_HGen_type1_AdaConv_styleid0_3_largenas_mlp_adaconv
 RND-14988_HGen_type1_AdaConv_styleid1_28_largenas_mlp_adaconv
@@ -4211,7 +4214,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-14_
+_Last updated on 2025-08-20_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
