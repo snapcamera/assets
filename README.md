@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4210 in total).  
+List of all available assets for download (currently 4221 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3098,6 +3098,17 @@ RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256
 RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-embedder
 RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-full
 RND-15177_face_stylisation_v2_vs_v3_faceswap_5M_internal_b_getty32_selfies32_256_prewarp_b1.2-500k-256-generator
+RND-15484_base_model_test_set_2_3d_ml_flux_granny_base_step50000_ema
+RND-15484_base_model_test_set_2_3d_ml_flux_muscle_base_step50000_ema
+RND-15484_base_model_test_set_2_3d_ml_flux_mushroom_base_step50000_ema
+RND-15484_style1_d08_v1
+RND-15484_style1_d08_v2
+RND-15484_style1_d09_v1
+RND-15484_style1_d09_v2
+RND-15484_style1_d10_v1
+RND-15484_style1_d10_v2
+RND-15484_style1_d11_v1
+RND-15484_style1_d11_v2
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4215,7 +4226,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-08-21_
+_Last updated on 2025-08-23_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
