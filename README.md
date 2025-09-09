@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4227 in total).  
+List of all available assets for download (currently 4229 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3060,6 +3060,7 @@ RND-14118_full_frame_ml_body_avatars_001_blue_character_face_swap_test
 RND-14118_full_frame_ml_body_avatars_002_blue_character
 RND-14118_full_frame_ml_body_avatars_003_golden_warrior
 RND-14118_full_frame_ml_body_avatars_004_pixelated_hero
+RND-14118_full_frame_ml_body_avatars_v2_golden_one
 RND-14537_000_strawberry_head
 RND-14537_000_strawberry_head_v2
 RND-14537_001_heavy_makeup_v2
@@ -3080,6 +3081,7 @@ RND-14785_banana_style_body_avatar_ml_p0_3
 RND-14787_tired_cucumber_body_avatar_ml_p0_5
 RND-14793_rat_body_avatar_ml_p0_10
 RND-14794_p0_11_sketchy_person
+RND-14794_p0_11_sketchy_person_V2_p0_11
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-generator
@@ -4232,7 +4234,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-09-03_
+_Last updated on 2025-09-09_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
