@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4240 in total).  
+List of all available assets for download (currently 4249 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1152,7 +1152,10 @@ EVASYLEVA_TEST_6
 Egg_Face_25316
 FACE_SWAP_ON_DEVICE_COMMUNITY
 FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER
+FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER_V3
 FACE_SWAP_ON_DEVICE_COMMUNITY_GENERATOR
+FACE_SWAP_ON_DEVICE_COMMUNITY_GENERATOR_V3
+FACE_SWAP_ON_DEVICE_COMMUNITY_V3
 FLYING_CEILING
 FLYING_CEILING_TEST
 FND-4490-Face-Swap-3
@@ -3128,6 +3131,12 @@ RND-15484_style1_d10_v1
 RND-15484_style1_d10_v2
 RND-15484_style1_d11_v1
 RND-15484_style1_d11_v2
+RND-16146_test_face_swap_model_A_5mb_embedder
+RND-16146_test_face_swap_model_A_5mb_full
+RND-16146_test_face_swap_model_A_5mb_generator
+RND-16146_test_face_swap_model_B_5mb_embedder
+RND-16146_test_face_swap_model_B_5mb_full
+RND-16146_test_face_swap_model_B_5mb_generator
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4245,7 +4254,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-09-11_
+_Last updated on 2025-09-12_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
