@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4249 in total).  
+List of all available assets for download (currently 4256 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2749,9 +2749,12 @@ LORG-21745_rainbow_shiny_effect_snapflixextra_full_frame_ml_2025
 LORG-21745_rainbow_shiny_effect_snapflixextra_full_frame_ml_2025_27221-6877-large
 LORG-21745_rainbow_shiny_effect_snapflixextra_full_frame_ml_2025_27221-6878-base
 LORG-21748_pink_magic_effect_snapflixextra_full_frame_ml_2025
+LORG-21999_fun_morph_snapflixmorphing_2025
 LORG-22062_pacifier_snapflixmorphingsntrd_2025
 LORG-22399_font_test
 LORG-22399_font_test_v1
+LORG-22636
+LORG-22636_2
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3102,9 +3105,13 @@ RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x-489k-256-g
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-embedder
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-full
 RND-14800_5M_internal_b_getty32_selfies32_256_masked_g6_blur025_pbl3x_400k_forehead_masks-generator
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_GPU_class_map_embedder
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_GPU_class_map_full
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_GPU_class_map_generator
 RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_embedder
 RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_full
 RND-148800_FaceSwap_5mb_vs_2_8mb_android_dev_class_map_generator
+RND-148800_FaceSwap_5mb_vs_2_8mb_android_gpu_class_map_embedder
 RND-14988_HGen_type1_AdaConv_styleid0_24_largenas_mlp_adaconv
 RND-14988_HGen_type1_AdaConv_styleid0_3_largenas_mlp_adaconv
 RND-14988_HGen_type1_AdaConv_styleid1_28_largenas_mlp_adaconv
@@ -4254,7 +4261,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-09-12_
+_Last updated on 2025-09-13_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
