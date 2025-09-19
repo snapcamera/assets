@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4262 in total).  
+List of all available assets for download (currently 4264 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3070,6 +3070,8 @@ RND-14118_full_frame_ml_body_avatars_002_blue_character
 RND-14118_full_frame_ml_body_avatars_003_golden_warrior
 RND-14118_full_frame_ml_body_avatars_004_pixelated_hero
 RND-14118_full_frame_ml_body_avatars_v2_golden_one
+RND-14509_full_frame_body_ml_styles_body_avatar_2-4_mummy
+RND-14509_full_frame_body_ml_styles_body_avatar_2-5_zombie
 RND-14509_full_frame_body_ml_styles_body_avatar_P0_6_Visible_Green
 RND-14509_full_frame_body_ml_styles_body_avatar_P0_7_Trendy_Robot
 RND-14509_full_frame_body_ml_styles_body_avatar_P0_8_Ecorche_Guy
@@ -4267,7 +4269,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-09-18_
+_Last updated on 2025-09-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
