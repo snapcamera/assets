@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4274 in total).  
+List of all available assets for download (currently 4275 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2765,6 +2765,7 @@ LORG-23037_pumpkin_spice_season_snap_plus_exclusive_2025
 LORG-23049_content_switch_realism_snap_plus_exclusive_2025
 LORG-23052_content_switch_anime_snap_plus_exclusive_2025_v1
 LORG-23052_content_switch_anime_snap_plus_exclusive_2025_v2
+LORG-23476
 LORG-23677_eyes
 LORG-23677_pig
 LORG-2934_coffee_2024
@@ -4279,7 +4280,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-09-30_
+_Last updated on 2025-10-01_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
