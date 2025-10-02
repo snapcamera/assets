@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4275 in total).  
+List of all available assets for download (currently 4280 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -448,6 +448,7 @@ BRANDED-3924_step_into_mcdonaldland_lens_volcano
 BRANDED-3963_coca_cola_oasis_2025_carousel_lens_big_mouth
 BRANDED-4917_avatar_fire_and_ash_update
 BRANDED-4917_avatar_fire_and_ash_update_v2
+BRANDED-4939_avatar_fire_and_ash
 BRANDED-5154_ML27291
 BRANDED-5154_ML27370
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
@@ -1167,6 +1168,7 @@ FND-4490-Face-Swap-3
 FND-4818_LENS_MAKER_TEST
 FND-5106-QNA-LENSMAKER-MOBILE-v1
 FND-8349_wheel_of_lenses_gender_swap_ml
+FND-8349_wheel_of_lenses_shook_ml
 FaceSwap136
 FaceSwapNew
 FaceSwap_RND-12900
@@ -2761,6 +2763,7 @@ LORG-22399_font_test
 LORG-22399_font_test_v1
 LORG-22636
 LORG-22636_2
+LORG-22957_diflated_face_snapflixmorphing_2025
 LORG-23037_pumpkin_spice_season_snap_plus_exclusive_2025
 LORG-23049_content_switch_realism_snap_plus_exclusive_2025
 LORG-23052_content_switch_anime_snap_plus_exclusive_2025_v1
@@ -3163,6 +3166,8 @@ RND-16304_halloween_set_3d_ml_flux_v1
 RND-16304_halloween_set_3d_ml_flux_v2
 RND-16304_halloween_set_3d_ml_flux_v3
 RND-16304_halloween_set_3d_ml_flux_v4
+RND-16844_pumpkin_set_3d_ml_flux_pumpkin_56
+RND-16844_pumpkin_set_3d_ml_flux_pumpkin_65879
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
@@ -4280,7 +4285,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-01_
+_Last updated on 2025-10-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
