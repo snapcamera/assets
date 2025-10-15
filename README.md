@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4285 in total).  
+List of all available assets for download (currently 4289 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3177,6 +3177,10 @@ RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
 RND-1719_magic_elf_3d_to_ml_v3
+RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01
+RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01_x2large
+RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor
+RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor_x2large
 RND-1722_big_head_from3d_to_ml_v1
 RND-1722_big_head_from3d_to_ml_v2
 RND-1724_strong_face_from_3d_to_ml
@@ -4290,7 +4294,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-14_
+_Last updated on 2025-10-15_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
