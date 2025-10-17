@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4290 in total).  
+List of all available assets for download (currently 4295 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -450,6 +450,7 @@ BRANDED-4899_coca_cola_fifa_world_cup_26
 BRANDED-4917_avatar_fire_and_ash_update
 BRANDED-4917_avatar_fire_and_ash_update_v2
 BRANDED-4939_avatar_fire_and_ash
+BRANDED-4939_avatar_fire_and_ash_v3
 BRANDED-5154_ML27291
 BRANDED-5154_ML27370
 BRANDED-5286_tron_ares_context_switch
@@ -900,6 +901,7 @@ Cameos-witch_486_assets_normal
 Cameos-yes_2022
 Cameos_doll_assets
 CartoonSmile_25033
+Cartoon_FaceSwap
 Cartoon_Face_25277
 Cartoon_India_ML_RND_207
 Cartoonish_vampire_look_24875-5817
@@ -3174,10 +3176,13 @@ RND-16304_halloween_set_3d_ml_flux_v4
 RND-16844_pumpkin_set_3d_ml_flux_pumpkin_56
 RND-16844_pumpkin_set_3d_ml_flux_pumpkin_65879
 RND-16851_body_avatar_004_p0_3_face_150000_ema
+RND-17178_background_segmentation_test_3d_to_ml_pumpkin_56
 RND-1719_PLT3
 RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
 RND-1719_magic_elf_3d_to_ml_v3
+RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v1_qie_4_in_1_test_doodles_2
+RND-17218_doodles_qie_qwen_image_edit_base_large_v1_qie_4_in_1_test_doodles_2
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01_x2large
 RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor
@@ -4295,7 +4300,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-16_
+_Last updated on 2025-10-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
