@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4297 in total).  
+List of all available assets for download (currently 4301 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1895,6 +1895,7 @@ LENSCORE_SEGMENTATION_UNet128V11_HAIR_AB_TEST
 LENSCORE_SIGNALL_GESTURE
 LENSCORE_SIGNALL_SIGN_RECOGNITION_APOLLO
 LENSCORE_SIGNALL_TARGETING
+LENSCORE_SNAPML_SNAPGEN_FACE_SWAP
 LENSCORE_SWAGML_BUV_WARP_DEBUG
 LENSCORE_SWAGML_BUV_WARP_PROD
 LENSCORE_SWAGML_BUV_WARP_V1
@@ -2778,6 +2779,7 @@ LORG-23476
 LORG-23677_eyes
 LORG-23677_pig
 LORG-24006_droppy_face_snapflixmorphing_2025
+LORG-24793
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -4150,6 +4152,8 @@ bob-v1-2_final
 branded-2330_3d_avatar_pitch
 cameo-office_play_assets
 cameo-office_play_videoreader_assets
+concept_4116_crop_v3
+concept_4116_crop_v3_v2
 config_
 dbondarenko_test_18_jul
 dbondarenko_test_cof_prefab
@@ -4302,7 +4306,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-21_
+_Last updated on 2025-10-22_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
