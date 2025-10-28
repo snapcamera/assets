@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4310 in total).  
+List of all available assets for download (currently 4315 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2781,6 +2781,7 @@ LORG-23677_pig
 LORG-24006_droppy_face_snapflixmorphing_2025
 LORG-24210_giant_eyes_snapflixmorphing_2025
 LORG-24793
+LORG-24868_hilarious_face_snapflixmorphing_2025
 LORG-25377_dia_de_muertos_snap_plus_remix_2025
 LORG-25854_Cute_Dog
 LORG-25855_Drama_Cat
@@ -3195,7 +3196,11 @@ RND-1719_magic_elf_3d_to_ml_v1
 RND-1719_magic_elf_3d_to_ml_v2
 RND-1719_magic_elf_3d_to_ml_v3
 RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v1_qie_4_in_1_test_doodles_2
+RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v1_qie_toddler_drawing_distilled
+RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v2_pencil_drawing_1_qie_distill
 RND-17218_doodles_qie_qwen_image_edit_base_large_v1_qie_4_in_1_test_doodles_2
+RND-17218_doodles_qie_qwen_image_edit_base_large_v1_qie_toddler_drawing_distilled
+RND-17218_doodles_qie_qwen_image_edit_base_large_v2_pencil_drawing_1_qie_distill
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01_x2large
 RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor
@@ -4315,7 +4320,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-25_
+_Last updated on 2025-10-28_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
