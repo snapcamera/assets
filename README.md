@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4315 in total).  
+List of all available assets for download (currently 4321 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2784,6 +2784,7 @@ LORG-24793
 LORG-24868_hilarious_face_snapflixmorphing_2025
 LORG-25377_dia_de_muertos_snap_plus_remix_2025
 LORG-25854_Cute_Dog
+LORG-25854_Cute_Dog_2
 LORG-25855_Drama_Cat
 LORG-25856_cute_hamster_snapflixpet_related_themes_2025
 LORG-25863_Evil_Beauty
@@ -3198,9 +3199,11 @@ RND-1719_magic_elf_3d_to_ml_v3
 RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v1_qie_4_in_1_test_doodles_2
 RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v1_qie_toddler_drawing_distilled
 RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v2_pencil_drawing_1_qie_distill
+RND-17218_doodles_qie_qwen_image_edit_base_large_largex2_v3_pencil_drawing_qie_retouch_40k
 RND-17218_doodles_qie_qwen_image_edit_base_large_v1_qie_4_in_1_test_doodles_2
 RND-17218_doodles_qie_qwen_image_edit_base_large_v1_qie_toddler_drawing_distilled
 RND-17218_doodles_qie_qwen_image_edit_base_large_v2_pencil_drawing_1_qie_distill
+RND-17218_doodles_qie_qwen_image_edit_base_large_v3_pencil_drawing_qie_retouch_40k
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01
 RND-17218_doodles_qie_qwen_image_edit_v2_qie_4_in_1_test_gouache_v01_x2large
 RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor
@@ -3208,6 +3211,9 @@ RND-17218_doodles_qie_qwen_image_edit_v3_qie_4_in_1_test_watercolor_x2large
 RND-1722_big_head_from3d_to_ml_v1
 RND-1722_big_head_from3d_to_ml_v2
 RND-1724_strong_face_from_3d_to_ml
+RND-17255_cartoonish_styles_distilled_flux_body_uv_base_large_largex2_v2_10_3d_cartoon_flux_body_with_clo
+RND-17255_cartoonish_styles_distilled_flux_body_uv_base_large_largex2_v3_4_comics_flux_body
+RND-17255_cartoonish_styles_distilled_flux_body_uv_base_large_largex2_v5_8_freeform_flux_body
 RND-1841_catears_125_v1
 RND-1841_catears_125_v2
 RND-1841_catears_15_v1
@@ -4320,7 +4326,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-28_
+_Last updated on 2025-10-29_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
