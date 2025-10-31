@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4333 in total).  
+List of all available assets for download (currently 4336 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1917,6 +1917,7 @@ LENSCORE_VOICEML_AUDIO_CLASSIFICATION_V1
 LENSCORE_WORLD_AR_CROSS_PLATFORM_DEPTH
 LENSCORE_WORLD_MESH_CUSTOM_LANDMARKERS_DEPTH_CONFIG
 LENSCORE_WRISTTRACKING_3D_V1
+LENSES_BITMOJI_POSE_TEST
 LENS_MAKER_ADJUST_COMPONENT_V1
 LENS_MAKER_ADJUST_V1
 LENS_MAKER_APPEARANCE_COMPONENT_V1
@@ -2799,7 +2800,9 @@ LORG-25854_Cute_Dog
 LORG-25854_Cute_Dog_2
 LORG-25855_Drama_Cat
 LORG-25856_cute_hamster_snapflixpet_related_themes_2025
+LORG-25856_cute_hamster_snapflixpet_related_themes_2025_v2
 LORG-25863_Evil_Beauty
+LORG-25863_Evil_Beauty_2
 LORG-25864_Upset_Face
 LORG-25868_Hilarious_Hair
 LORG-25870_double_chin_snapflixmorphing_2025
@@ -4338,7 +4341,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-10-30_
+_Last updated on 2025-10-31_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
