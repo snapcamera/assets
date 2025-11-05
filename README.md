@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4402 in total).  
+List of all available assets for download (currently 4404 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2833,6 +2833,7 @@ LORG-22636
 LORG-22636_2
 LORG-22957_diflated_face_snapflixmorphing_2025
 LORG-23013_big_nose_small_eyes_ml_snap_plus_remix_2025
+LORG-23022_beard_dog
 LORG-23037_pumpkin_spice_season_snap_plus_exclusive_2025
 LORG-23049_content_switch_realism_snap_plus_exclusive_2025
 LORG-23052_content_switch_anime_snap_plus_exclusive_2025_v1
@@ -2844,6 +2845,7 @@ LORG-23677_eyes
 LORG-23677_pig
 LORG-24006_droppy_face_snapflixmorphing_2025
 LORG-24210_giant_eyes_snapflixmorphing_2025
+LORG-24210_giant_eyes_snapflixmorphing_2025_v2
 LORG-24394_morphing_12_snapflix_scmorphing_sc_2025_v2
 LORG-24394_morphing_12_snapflix_scmorphing_sc_2025_v3
 LORG-24405_doll_look_snapflix_scmorphing_sc_2025
@@ -4407,7 +4409,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-11-04_
+_Last updated on 2025-11-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
