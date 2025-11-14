@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4429 in total).  
+List of all available assets for download (currently 4434 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2852,6 +2852,8 @@ LORG-22636_2
 LORG-22957_diflated_face_snapflixmorphing_2025
 LORG-23013_big_nose_small_eyes_ml_snap_plus_remix_2025
 LORG-23022_beard_dog
+LORG-23025_new_anime_dog_snap_plus_remix_2025_v1
+LORG-23025_new_anime_dog_snap_plus_remix_2025_v2
 LORG-23037_pumpkin_spice_season_snap_plus_exclusive_2025
 LORG-23049_content_switch_realism_snap_plus_exclusive_2025
 LORG-23052_content_switch_anime_snap_plus_exclusive_2025_v1
@@ -3322,6 +3324,9 @@ RND-17255_cartoonish_styles_distilled_flux_body_uv_base_large_largex2_v3_4_comic
 RND-17255_cartoonish_styles_distilled_flux_body_uv_base_large_largex2_v5_8_freeform_flux_body
 RND-17255_cartoonish_styles_distilled_flux_body_uv_v1_3d_cartoon_flux_mouth_with_close
 RND-17255_cartoonish_styles_distilled_flux_body_uv_v4_6_graphic_flux_body
+RND-18258_model_v4_new_size_512x512_face_swap_V4_embedder
+RND-18258_model_v4_new_size_512x512_face_swap_V4_full
+RND-18258_model_v4_new_size_512x512_face_swap_V4_generator
 RND-1841_catears_125_v1
 RND-1841_catears_125_v2
 RND-1841_catears_15_v1
@@ -4434,7 +4439,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-11-13_
+_Last updated on 2025-11-14_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
