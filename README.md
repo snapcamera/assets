@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4435 in total).  
+List of all available assets for download (currently 4437 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1602,6 +1602,8 @@ LENSCORE_CAMEO_WIND_BLOWER_PLT1_V1
 LENSCORE_CAMEO_WIND_BLOWER_PLT1_V2
 LENSCORE_CAMEO_WIND_BLOWER_PLT1_V3
 LENSCORE_CAMEO_WIND_BLOWER_PREFAB_PACKER_TEST
+LENSCORE_CHARACTER_CONTROLLER_ANIMATION_IDLE
+LENSCORE_CHARACTER_CONTROLLER_ANIMATION_RUN
 LENSCORE_COLOCATED_MAP_BUILDING_SEGMENTATION_MODEL
 LENSCORE_DEFAULT_RETOUCH_ASSET
 LENSCORE_DEFAULT_RETOUCH_ASSET_ML
@@ -4440,7 +4442,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-11-18_
+_Last updated on 2025-11-20_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
