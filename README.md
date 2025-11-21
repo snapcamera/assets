@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4437 in total).  
+List of all available assets for download (currently 4445 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -831,6 +831,10 @@ CAMEOS_RND_2333_bundle_V8_PLT1_V18
 CAMEOS_RND_2333_bundle_V8_PLT1_V19
 CAMEOS_RND_2333_bundle_V8_PLT1_V20
 CAMEO_Music_Band_video_texture
+CC_CHARACTER_CONTROLLER_ANIMATION_IDLE
+CC_CHARACTER_CONTROLLER_ANIMATION_JUMP
+CC_CHARACTER_CONTROLLER_ANIMATION_RUN
+CC_CHARACTER_CONTROLLER_ANIMATION_WALK
 CMT-42_inside_out_2_disney_camkit_us
 COF_DEVICE_CLUSTER
 COF_LENS_CLUSTER_ORIG
@@ -3337,6 +3341,10 @@ RND-1841_catears_15_v2
 RND-1843_3d_to_ml_brow_dance_v1
 RND-1843_3d_to_ml_brow_dance_v2
 RND-1843_brutal
+RND-18624_banana_smoothing
+RND-18624_optical_flow_banana_smoothing
+RND-18624_optical_flow_zombie_smoothing
+RND-18624_zombie_smoothing
 RND-1873_hair_bangs_3D_ML_PLT1_V01
 RND-1873_hair_bangs_3D_ML_PLT1_V02
 RND-1873_hair_bangs_3D_ML_PLT1_V03
@@ -4442,7 +4450,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-11-20_
+_Last updated on 2025-11-21_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
