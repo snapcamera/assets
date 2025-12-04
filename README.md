@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4458 in total).  
+List of all available assets for download (currently 4465 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3353,6 +3353,7 @@ RND-18745_new_ip_model_test_3d_ml_flux_new_dragon_ip
 RND-18745_new_ip_model_test_3d_ml_flux_new_granny_ip
 RND-18745_new_ip_model_test_3d_ml_flux_prod_dragon
 RND-18745_new_ip_model_test_3d_ml_flux_prod_granny
+RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_45494972-12137109-base
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_expression_man_base
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_expression_man_base_large
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_female_realism_base
@@ -3361,6 +3362,9 @@ RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_goblin_base
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_goblin_base_large
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_grumpy_man_base
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_grumpy_man_base_large
+RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_headphones_45412884_12139929
+RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_wreath
+RND-19114_christmas_designs_set_2_3d_ml_flux_spiral_christmas_headphones_45412553_12140117
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
 RND-2008_ML
 RND-2287_holographic_pix2pix_live
@@ -4209,6 +4213,9 @@ RND_1494_baby_v2
 RND_1568_bird_sound_v1
 RND_1719_Elf_Man_PLT2_v1
 RND_1719_Elf_Man_PLT2_v2
+RND_18956_christmas_designs_set_3d_ml_flux_V01_elf_design_45444660
+RND_18956_christmas_designs_set_3d_ml_flux_V02_cute_deer_44094511
+RND_18956_christmas_designs_set_3d_ml_flux_V03_santa_45230834
 RND_1924_Big_Lips_ML
 RND_195_Hollywood_India_ML_1
 RND_195_Hollywood_India_ML_2
@@ -4463,7 +4470,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-11-27_
+_Last updated on 2025-12-04_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
