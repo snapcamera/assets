@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4465 in total).  
+List of all available assets for download (currently 4470 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2894,6 +2894,7 @@ LORG-24868_hilarious_face_snapflixmorphing_2025
 LORG-25377_dia_de_muertos_snap_plus_remix_2025
 LORG-25834_baby_face_snapflixchildren_2025
 LORG-25835_cute_child_snapflixchildren_2025
+LORG-25835_cute_child_snapflixchildren_2025_v2
 LORG-25854_Cute_Dog
 LORG-25854_Cute_Dog_2
 LORG-25855_Drama_Cat
@@ -2905,8 +2906,10 @@ LORG-25864_Upset_Face
 LORG-25868_Hilarious_Hair
 LORG-25870_double_chin_snapflixmorphing_2025
 LORG-25870_double_chin_snapflixmorphing_2025_v2
+LORG-25884_cute_baby_snapflixchildren_2025
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
+LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -3364,6 +3367,7 @@ RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_grumpy_man_base
 RND-18812_test_for_face_swap_distillation_dataset_3d_ml_flux_grumpy_man_base_large
 RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_headphones_45412884_12139929
 RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_wreath
+RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_wreath_45700523_12185425
 RND-19114_christmas_designs_set_2_3d_ml_flux_spiral_christmas_headphones_45412553_12140117
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
 RND-2008_ML
@@ -4214,6 +4218,7 @@ RND_1568_bird_sound_v1
 RND_1719_Elf_Man_PLT2_v1
 RND_1719_Elf_Man_PLT2_v2
 RND_18956_christmas_designs_set_3d_ml_flux_V01_elf_design_45444660
+RND_18956_christmas_designs_set_3d_ml_flux_V01_elf_design_45612146
 RND_18956_christmas_designs_set_3d_ml_flux_V02_cute_deer_44094511
 RND_18956_christmas_designs_set_3d_ml_flux_V03_santa_45230834
 RND_1924_Big_Lips_ML
@@ -4470,7 +4475,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-04_
+_Last updated on 2025-12-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
