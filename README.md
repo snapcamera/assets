@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4470 in total).  
+List of all available assets for download (currently 4472 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2876,6 +2876,7 @@ LORG-24210_giant_eyes_snapflixmorphing_2025_v2
 LORG-24394_morphing_12_snapflix_scmorphing_sc_2025_v2
 LORG-24394_morphing_12_snapflix_scmorphing_sc_2025_v3
 LORG-24397_morphing_13_snapflix_scmorphing_sc_2025
+LORG-24403_morphing_15_snapflix_scmorphing_sc_2025
 LORG-24405_doll_look_snapflix_scmorphing_sc_2025
 LORG-24409_morphing_17_snapflix_scmorphing_sc_2025
 LORG-24414_alien_eyes_snapflix_scmorphing_sc_2025
@@ -2907,6 +2908,7 @@ LORG-25868_Hilarious_Hair
 LORG-25870_double_chin_snapflixmorphing_2025
 LORG-25870_double_chin_snapflixmorphing_2025_v2
 LORG-25884_cute_baby_snapflixchildren_2025
+LORG-25884_cute_baby_snapflixchildren_2025_v2
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
 LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
@@ -4475,7 +4477,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-05_
+_Last updated on 2025-12-06_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
