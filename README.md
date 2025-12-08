@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4472 in total).  
+List of all available assets for download (currently 4475 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1208,6 +1208,9 @@ Hollywood_India_ML_RND_195_PLT4_3_2
 Homer_A_25187
 Homer_B_25188
 Homer_C_25189
+JOYSTICK_COMPONENT_PRESET_VARIATION_1
+JOYSTICK_COMPONENT_PRESET_VARIATION_2
+JOYSTICK_COMPONENT_PRESET_VARIATION_3
 JsonProvider
 Keanu_25157
 LEN-1234567-TEST-GETTY-90-16MODES
@@ -4477,7 +4480,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-06_
+_Last updated on 2025-12-08_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
