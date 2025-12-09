@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4475 in total).  
+List of all available assets for download (currently 4481 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -187,6 +187,8 @@ See the last section for instructions on [how to download the assets](#download-
 25579_Big_boy
 26677-6719-large
 26726-6728-large
+27686-7169-base
+27689-7158-base
 3432-16-base
 35728_21071
 3850_base
@@ -3374,6 +3376,10 @@ RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_headphones_45412884_12139
 RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_wreath
 RND-19114_christmas_designs_set_2_3d_ml_flux_christmas_wreath_45700523_12185425
 RND-19114_christmas_designs_set_2_3d_ml_flux_spiral_christmas_headphones_45412553_12140117
+RND-19176_christmas_designs_set_3_3d_ml_flux_45592617_12176025
+RND-19176_christmas_designs_set_3_3d_ml_flux_45595265_12178845
+RND-19176_christmas_designs_set_3_3d_ml_flux_45715418_12213249
+RND-19176_christmas_designs_set_3_3d_ml_flux_45785590_12215881
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
 RND-2008_ML
 RND-2287_holographic_pix2pix_live
@@ -4480,7 +4486,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-08_
+_Last updated on 2025-12-09_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
