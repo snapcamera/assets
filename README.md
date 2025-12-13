@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4493 in total).  
+List of all available assets for download (currently 4503 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -199,6 +199,7 @@ See the last section for instructions on [how to download the assets](#download-
 4233-833-base
 4251_esl_ml_lion_ml_2024
 4432-842-base
+46471091-12429261-base
 4749-828-base
 5396-838-base
 5399-811-base
@@ -2918,10 +2919,14 @@ LORG-25870_double_chin_snapflixmorphing_2025_v2
 LORG-25884_cute_baby_snapflixchildren_2025
 LORG-25884_cute_baby_snapflixchildren_2025_v2
 LORG-25884_cute_baby_snapflixchildren_2025_v3
+LORG-25885_childish_face_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
 LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
+LORG-27309_brows_model
 LORG-28491_square_head_snapflix_scmorphing_sc_2025
+LORG-28501_no_nose_snapflix_scmorphing_sc_2025
+LORG-28504_morphing_16_snapflix_scmorphing_sc_2025
 LORG-28575_sarcastic_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
 LORG-2934_coffee_2024
@@ -3387,6 +3392,10 @@ RND-19176_christmas_designs_set_3_3d_ml_flux_45592617_12176025
 RND-19176_christmas_designs_set_3_3d_ml_flux_45595265_12178845
 RND-19176_christmas_designs_set_3_3d_ml_flux_45715418_12213249
 RND-19176_christmas_designs_set_3_3d_ml_flux_45785590_12215881
+RND-19426_elf_cat_body_avatar_05_cat_elf
+RND-19426_elf_cat_body_avatar_06_cat_elf
+RND-19466_gingerbread_man_body_avatar_full_frame_ml_01_cucumber
+RND-19466_gingerbread_man_body_avatar_full_frame_ml_04_cucumber
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
 RND-2008_ML
 RND-2287_holographic_pix2pix_live
@@ -4245,6 +4254,7 @@ RND_19250_snow_man_body_avatarsnowman_2
 RND_19285_winter_lama_body_avatar_lama_v01
 RND_19285_winter_lama_body_avatar_lama_v02
 RND_19287_gift_body_avatar_gift_v01
+RND_19466_gingerbread_man_body_avatar_full_frame_ml_08_ginger
 RND_195_Hollywood_India_ML_1
 RND_195_Hollywood_India_ML_2
 RND_195_Hollywood_India_ML_3
@@ -4498,7 +4508,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-12_
+_Last updated on 2025-12-13_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
