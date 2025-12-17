@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4505 in total).  
+List of all available assets for download (currently 4508 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2923,6 +2923,8 @@ LORG-25885_childish_face_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
 LORG-26395_upset_baby_snapflixchildren_2025_v3
+LORG-26918_painted_baby_snapflixchildren3d_ml_2025
+LORG-27021_renaissance_art_style_snap_plus_exclusivecontext_switch_2025
 LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
 LORG-27309_brows_model
 LORG-28491_square_head_snapflix_scmorphing_sc_2025
@@ -3399,6 +3401,7 @@ RND-19426_elf_cat_body_avatar_06_cat_elf
 RND-19466_gingerbread_man_body_avatar_full_frame_ml_01_cucumber
 RND-19466_gingerbread_man_body_avatar_full_frame_ml_04_cucumber
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
+RND-19517_christmas_designs_body_avatar_full_frame_ml_goblin
 RND-2008_ML
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
@@ -4510,7 +4513,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-16_
+_Last updated on 2025-12-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
