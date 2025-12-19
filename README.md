@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4514 in total).  
+List of all available assets for download (currently 4516 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -187,6 +187,7 @@ See the last section for instructions on [how to download the assets](#download-
 25579_Big_boy
 26677-6719-large
 26726-6728-large
+27448
 27683-7172-base
 27686-7169-base
 27689-7158-base
@@ -4365,6 +4366,7 @@ bob-v1-2_final
 branded-2330_3d_avatar_pitch
 cameo-office_play_assets
 cameo-office_play_videoreader_assets
+cartoon_fs_last-full
 concept_4116_crop_v3
 concept_4116_crop_v3_v2
 config_
@@ -4519,7 +4521,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-18_
+_Last updated on 2025-12-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
