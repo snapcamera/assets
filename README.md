@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4516 in total).  
+List of all available assets for download (currently 4521 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1170,6 +1170,8 @@ EVASYLEVA_TEST_2
 EVASYLEVA_TEST_3
 EVASYLEVA_TEST_6
 Egg_Face_25316
+FACE_SWAP_ON_DEVICE_AROZHKOV_V3_13.6M_FULL
+FACE_SWAP_ON_DEVICE_AROZHKOV_V3_5M_FULL
 FACE_SWAP_ON_DEVICE_COMMUNITY
 FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER
 FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER_V3
@@ -2934,11 +2936,14 @@ LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
 LORG-27309_brows_model
 LORG-28438_pastel_fantasy_snap_plus_exclusivecontext_switch_2025
 LORG-28441_graffiti_style_snap_plus_exclusivecontext_switch_2025
+LORG-28447_celestial_vibe_snap_plus_exclusivecontext_switch_2025
 LORG-28491_square_head_snapflix_scmorphing_sc_2025
 LORG-28494_bow_sponges_snapflix_scmorphing_sc_2025
 LORG-28501_no_nose_snapflix_scmorphing_sc_2025
 LORG-28504_morphing_16_snapflix_scmorphing_sc_2025
+LORG-28507_booty_chin_snapflix_scmorphing_sc_2025
 LORG-28575_sarcastic_snapflix_scmorphing_sc_2025
+LORG-28582_loading_silly_face_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
@@ -4521,7 +4526,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-19_
+_Last updated on 2025-12-20_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
