@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4521 in total).  
+List of all available assets for download (currently 4527 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -837,6 +837,8 @@ CAMEOS_RND_2333_bundle_V8_PLT1_V18
 CAMEOS_RND_2333_bundle_V8_PLT1_V19
 CAMEOS_RND_2333_bundle_V8_PLT1_V20
 CAMEO_Music_Band_video_texture
+CC_CHARACTER_CONTROLLER_ANIMATION_DASH
+CC_CHARACTER_CONTROLLER_ANIMATION_DASH_SETTLE
 CC_CHARACTER_CONTROLLER_ANIMATION_IDLE
 CC_CHARACTER_CONTROLLER_ANIMATION_JUMP
 CC_CHARACTER_CONTROLLER_ANIMATION_RUN
@@ -844,6 +846,7 @@ CC_CHARACTER_CONTROLLER_ANIMATION_WALK
 CMT-42_inside_out_2_disney_camkit_us
 COF_DEVICE_CLUSTER
 COF_LENS_CLUSTER_ORIG
+COF_TOOLS_ARCMS_TEST_RND-18624_optical_flow_zombie_smoothing
 CONDITIONAL_RETOUCH_ML_SELFIE_SETTINGS
 CONNECTION_DEPENDENT_LENS_ASSET_TEST_0
 CONNECTION_DEPENDENT_LENS_ASSET_TEST_1
@@ -2936,6 +2939,8 @@ LORG-27023_neon_noir_snap_plus_exclusivecontext_switch_2025
 LORG-27309_brows_model
 LORG-28438_pastel_fantasy_snap_plus_exclusivecontext_switch_2025
 LORG-28441_graffiti_style_snap_plus_exclusivecontext_switch_2025
+LORG-28445_drawn_doodles_snap_plus_exclusivecontext_switch_2025_27740
+LORG-28445_drawn_doodles_snap_plus_exclusivecontext_switch_2025_27770
 LORG-28447_celestial_vibe_snap_plus_exclusivecontext_switch_2025
 LORG-28491_square_head_snapflix_scmorphing_sc_2025
 LORG-28494_bow_sponges_snapflix_scmorphing_sc_2025
@@ -2945,6 +2950,7 @@ LORG-28507_booty_chin_snapflix_scmorphing_sc_2025
 LORG-28575_sarcastic_snapflix_scmorphing_sc_2025
 LORG-28582_loading_silly_face_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
+LORG-29087_crazy_eyes_snapflixmorphing_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-3245_esl_ml_bulldog_face
@@ -4526,7 +4532,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-20_
+_Last updated on 2025-12-23_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
