@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4527 in total).  
+List of all available assets for download (currently 4532 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2948,6 +2948,7 @@ LORG-28501_no_nose_snapflix_scmorphing_sc_2025
 LORG-28504_morphing_16_snapflix_scmorphing_sc_2025
 LORG-28507_booty_chin_snapflix_scmorphing_sc_2025
 LORG-28575_sarcastic_snapflix_scmorphing_sc_2025
+LORG-28576_morphing_2_snapflix_scmorphing_sc_2025
 LORG-28582_loading_silly_face_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
 LORG-29087_crazy_eyes_snapflixmorphing_2025
@@ -3420,6 +3421,10 @@ RND-19466_gingerbread_man_body_avatar_full_frame_ml_01_cucumber
 RND-19466_gingerbread_man_body_avatar_full_frame_ml_04_cucumber
 RND-1946_3D_TO_ML_TONGUE_OVER_TEETH_V01
 RND-19517_christmas_designs_body_avatar_full_frame_ml_goblin
+RND-19669_temporal_smoothing_test_2_body_avatar_full_frame_ml_lama_base
+RND-19669_temporal_smoothing_test_2_body_avatar_full_frame_ml_lama_optical_flow
+RND-19669_temporal_smoothing_test_2_body_avatar_full_frame_ml_yeti_base
+RND-19669_temporal_smoothing_test_2_body_avatar_full_frame_ml_yeti_optical_flow
 RND-2008_ML
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
@@ -4532,7 +4537,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-23_
+_Last updated on 2025-12-24_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
