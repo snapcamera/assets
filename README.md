@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4534 in total).  
+List of all available assets for download (currently 4537 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -839,9 +839,11 @@ CAMEOS_RND_2333_bundle_V8_PLT1_V20
 CAMEO_Music_Band_video_texture
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_SETTLE
+CC_CHARACTER_CONTROLLER_ANIMATION_FALL
 CC_CHARACTER_CONTROLLER_ANIMATION_IDLE
 CC_CHARACTER_CONTROLLER_ANIMATION_JUMP
 CC_CHARACTER_CONTROLLER_ANIMATION_RUN
+CC_CHARACTER_CONTROLLER_ANIMATION_SQUAT
 CC_CHARACTER_CONTROLLER_ANIMATION_WALK
 CMT-42_inside_out_2_disney_camkit_us
 COF_DEVICE_CLUSTER
@@ -2926,6 +2928,7 @@ LORG-25884_cute_baby_snapflixchildren_2025
 LORG-25884_cute_baby_snapflixchildren_2025_v2
 LORG-25884_cute_baby_snapflixchildren_2025_v3
 LORG-25885_childish_face_snapflixchildren_2025_v1
+LORG-26392_cutie_with_freckles_snapflixchildren_2025
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
 LORG-26395_upset_baby_snapflixchildren_2025_v3
@@ -4539,7 +4542,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2025-12-27_
+_Last updated on 2025-12-30_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
