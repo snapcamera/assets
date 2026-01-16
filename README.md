@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4548 in total).  
+List of all available assets for download (currently 4551 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -191,6 +191,7 @@ See the last section for instructions on [how to download the assets](#download-
 27683-7172-base
 27686-7169-base
 27689-7158-base
+31392_context_switch_1_snap_plus_exclusivecontext_switchlens_plus_jan_2026_27847_7197
 3432-16-base
 35728_21071
 3850_base
@@ -2962,6 +2963,7 @@ LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
 LORG-29648_disgusted
 LORG-29648_disgusted_person_snapflixmorphing3d_ml_2025
+LORG-30157_almost_human_snapflix_scmorphing_sc_2025
 LORG-30166_strange_smile_snapflix_scmorphing_sc_2025
 LORG-30174_smile_teeth_morphing_9_snapflix_scmorphing_sc_2025
 LORG-30178_black_swan_morphing_10_snapflix_scmorphing_sc_2025
@@ -2970,6 +2972,7 @@ LORG-30185_triangular_head_snapflix_scmorphing_sc_2025
 LORG-30192_morphing_15_snapflix_scmorphing_sc_2025
 LORG-30671_monday_face_morphing_19_snapflix_scmorphing_sc_2025
 LORG-30680_thick_eyebrows_snapflix_scmorphing_sc_2025
+LORG-31392_context_switch_1_snap_plus_exclusivecontext_switchlens_plus_jan_2026_27847-7197
 LORG-3245_esl_ml_bulldog_face
 LORG-3250_Triangle_face
 LORG-3255_esl_ml_only_mouth_2024_condition
@@ -4553,7 +4556,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-13_
+_Last updated on 2026-01-16_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
