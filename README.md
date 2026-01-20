@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4555 in total).  
+List of all available assets for download (currently 4556 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2974,6 +2974,7 @@ LORG-30183_morphing_12_snapflix_scmorphing_sc_2025
 LORG-30185_triangular_head_snapflix_scmorphing_sc_2025
 LORG-30192_morphing_15_snapflix_scmorphing_sc_2025
 LORG-30671_monday_face_morphing_19_snapflix_scmorphing_sc_2025
+LORG-30674_cute_asian_style_morph_snapflix_scmorphing_sc_2025
 LORG-30677_long_nose_snapflix_scmorphing_sc_2025
 LORG-30680_thick_eyebrows_snapflix_scmorphing_sc_2025
 LORG-31392_context_switch_1_snap_plus_exclusivecontext_switchlens_plus_jan_2026_27847-7197
@@ -4560,7 +4561,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-17_
+_Last updated on 2026-01-20_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
