@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4556 in total).  
+List of all available assets for download (currently 4558 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2955,6 +2955,7 @@ LORG-28507_booty_chin_snapflix_scmorphing_sc_2025_v2
 LORG-28575_sarcastic_snapflix_scmorphing_sc_2025
 LORG-28576_morphing_2_snapflix_scmorphing_sc_2025
 LORG-28582_loading_silly_face_snapflix_scmorphing_sc_2025
+LORG-28584_hard_flirt_face_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
 LORG-29087_crazy_eyes_snapflixmorphing_2025
 LORG-29106_hilarious_buddy_snapflixbeard_and_furry_styles_2025
@@ -2978,6 +2979,7 @@ LORG-30674_cute_asian_style_morph_snapflix_scmorphing_sc_2025
 LORG-30677_long_nose_snapflix_scmorphing_sc_2025
 LORG-30680_thick_eyebrows_snapflix_scmorphing_sc_2025
 LORG-31392_context_switch_1_snap_plus_exclusivecontext_switchlens_plus_jan_2026_27847-7197
+LORG-31395_context_switch_2_snap_plus_exclusivecontext_switchlens_plus_jan_2025
 LORG-3245_esl_ml_bulldog_face
 LORG-3250_Triangle_face
 LORG-3255_esl_ml_only_mouth_2024_condition
@@ -4561,7 +4563,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-20_
+_Last updated on 2026-01-21_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
