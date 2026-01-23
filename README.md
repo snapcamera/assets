@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4559 in total).  
+List of all available assets for download (currently 4560 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2929,6 +2929,7 @@ LORG-25884_cute_baby_snapflixchildren_2025
 LORG-25884_cute_baby_snapflixchildren_2025_v2
 LORG-25884_cute_baby_snapflixchildren_2025_v3
 LORG-25885_childish_face_snapflixchildren_2025_v1
+LORG-26127_Snapflix_ML_Beauty_V6
 LORG-26392_cutie_with_freckles_snapflixchildren_2025
 LORG-26395_upset_baby_snapflixchildren_2025_v1
 LORG-26395_upset_baby_snapflixchildren_2025_v2
@@ -4564,7 +4565,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-22_
+_Last updated on 2026-01-23_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
