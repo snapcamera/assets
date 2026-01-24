@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4560 in total).  
+List of all available assets for download (currently 4561 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2986,6 +2986,7 @@ LORG-3245_esl_ml_bulldog_face
 LORG-3250_Triangle_face
 LORG-3255_esl_ml_only_mouth_2024_condition
 LORG-3255_esl_ml_only_mouth_2024_no_condition
+LORG-32815_half_bald_kid_snapflixmorphing_2026
 LORG-3293_INNV_Evil_Face_ML_2024
 LORG-3293_INNV_Evil_Face_ML_2024_v1
 LORG-3296_INNV_Tired_Face_ML_2024
@@ -4565,7 +4566,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-23_
+_Last updated on 2026-01-24_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
