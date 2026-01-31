@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4564 in total).  
+List of all available assets for download (currently 4565 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1184,6 +1184,7 @@ FACE_SWAP_ON_DEVICE_COMMUNITY_EMBEDDER_V3
 FACE_SWAP_ON_DEVICE_COMMUNITY_GENERATOR
 FACE_SWAP_ON_DEVICE_COMMUNITY_GENERATOR_V3
 FACE_SWAP_ON_DEVICE_COMMUNITY_V3
+FACE_SWAP_ON_DEVICE_COMMUNITY_VIDEO
 FLYING_CEILING
 FLYING_CEILING_TEST
 FND-4490-Face-Swap-3
@@ -4569,7 +4570,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-01-29_
+_Last updated on 2026-01-31_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
