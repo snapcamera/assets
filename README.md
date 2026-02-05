@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4566 in total).  
+List of all available assets for download (currently 4568 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -846,6 +846,7 @@ CC_CHARACTER_CONTROLLER_ANIMATION_JUMP
 CC_CHARACTER_CONTROLLER_ANIMATION_RUN
 CC_CHARACTER_CONTROLLER_ANIMATION_SQUAT
 CC_CHARACTER_CONTROLLER_ANIMATION_WALK
+CC_CHARACTER_CONTROLLER_EMOTE_DANCE
 CMT-42_inside_out_2_disney_camkit_us
 COF_DEVICE_CLUSTER
 COF_LENS_CLUSTER_ORIG
@@ -2908,6 +2909,7 @@ LORG-24756_disgusted
 LORG-24756_disgusted_snapflix_scmorphing_sc_2025
 LORG-24765_not_crying_snapflix_scmorphing_sc_2025
 LORG-24771_jaw_drop_face_snapflix_scmorphing_sc_2025
+LORG-24772_morphing_27_snapflix_scmorphing_sc_2025
 LORG-24777_big_eyes_baby_face_snapflix_scmorphing_sc_2025
 LORG-24780_snapflix_scmorphing_sc_apple_face_2025
 LORG-24793
@@ -4571,7 +4573,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-03_
+_Last updated on 2026-02-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
