@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4568 in total).  
+List of all available assets for download (currently 4573 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2987,6 +2987,11 @@ LORG-31392_context_switch_1_snap_plus_exclusivecontext_switchlens_plus_jan_2026_
 LORG-31395_context_switch_2_snap_plus_exclusivecontext_switchlens_plus_jan_2025
 LORG-31396_context_switch_3_snap_plus_exclusivecontext_switchlens_plus_jan_2026
 LORG-31399
+LORG-31400_context_switch_5_snap_plus_exclusivecontext_switchlens_plus_jan_2026
+LORG-32439_air
+LORG-32439_earth
+LORG-32439_fire
+LORG-32439_water
 LORG-3245_esl_ml_bulldog_face
 LORG-3250_Triangle_face
 LORG-3255_esl_ml_only_mouth_2024_condition
@@ -4573,7 +4578,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-05_
+_Last updated on 2026-02-06_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
