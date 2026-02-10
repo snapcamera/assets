@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4574 in total).  
+List of all available assets for download (currently 4581 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2989,6 +2989,7 @@ LORG-31396_context_switch_3_snap_plus_exclusivecontext_switchlens_plus_jan_2026
 LORG-31399
 LORG-31400_context_switch_5_snap_plus_exclusivecontext_switchlens_plus_jan_2026
 LORG-31936_bracers_kid_snapflixchildren3d_ml2026
+LORG-32256_cartoon_beauty_snap_plus_remix_2026
 LORG-32439_air
 LORG-32439_earth
 LORG-32439_fire
@@ -4332,6 +4333,12 @@ RND_195_Hollywood_India_ML_5
 RND_195_Hollywood_India_ML_6
 RND_195_Hollywood_India_ML_7
 RND_195_Hollywood_India_ML_8
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_baseline320
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_enhanced320
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_enhanced512
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_old_square_baseline320
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_old_square_enhanced320
+RND_20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_old_square_enhanced512
 RND_4428_beardEraserV0
 RND_4428_beardEraserV1_crop_1_25
 RND_650_Stunning_Look_ML_PLT1_V1
@@ -4579,7 +4586,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-07_
+_Last updated on 2026-02-10_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
