@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4581 in total).  
+List of all available assets for download (currently 4594 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1170,6 +1170,19 @@ EASY_LENS_4496
 EASY_LENS_4728
 EASY_LENS_9785
 EASY_LENS_9794
+EASY_LENS_BLOCK_RESOURCES_FONT_ACME_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_AMATICSC_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_CAVEAT_MEDIUM
+EASY_LENS_BLOCK_RESOURCES_FONT_FREDOKA_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_GOCHIHAND_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_LIMELIGHT_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_LOBSTER_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_OPENSANS_BOLD
+EASY_LENS_BLOCK_RESOURCES_FONT_ROBOTOMONO_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_ROCHESTER_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_RUBIKMONOONE_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_RUGEBOOGIE_REGULAR
+EASY_LENS_BLOCK_RESOURCES_FONT_YELLOWTAIL_REGULAR
 EVASYLEVA_TEST
 EVASYLEVA_TEST1
 EVASYLEVA_TEST_03
@@ -4586,7 +4599,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-10_
+_Last updated on 2026-02-11_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
