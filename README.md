@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4606 in total).  
+List of all available assets for download (currently 4700 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1209,6 +1209,97 @@ FLYING_CEILING_TEST
 FND-4490-Face-Swap-3
 FND-4818_LENS_MAKER_TEST
 FND-5106-QNA-LENSMAKER-MOBILE-v1
+FND-8054_Bitmoji_Room_Armchair_A_GRP
+FND-8054_Bitmoji_Room_Armchair_B
+FND-8054_Bitmoji_Room_Armchair_B_GRP
+FND-8054_Bitmoji_Room_Armchair_C
+FND-8054_Bitmoji_Room_Backpack_B
+FND-8054_Bitmoji_Room_Bed_A
+FND-8054_Bitmoji_Room_Bedside_Cabinet_A
+FND-8054_Bitmoji_Room_Bedside_Cabinet_B
+FND-8054_Bitmoji_Room_Bootle_A_GRP
+FND-8054_Bitmoji_Room_Bootle_B_GRP
+FND-8054_Bitmoji_Room_Box_GRP
+FND-8054_Bitmoji_Room_CAN_GRP
+FND-8054_Bitmoji_Room_Car_GRP
+FND-8054_Bitmoji_Room_Carpet_oval
+FND-8054_Bitmoji_Room_Carpet_rectangular
+FND-8054_Bitmoji_Room_Carpet_rounded
+FND-8054_Bitmoji_Room_Chair_A_GRP
+FND-8054_Bitmoji_Room_Chair_B_GRP
+FND-8054_Bitmoji_Room_Chair_C_GRP
+FND-8054_Bitmoji_Room_Chair_D_GRP
+FND-8054_Bitmoji_Room_Door_A_GRP
+FND-8054_Bitmoji_Room_Door_A_GRP_1
+FND-8054_Bitmoji_Room_Door_B_GRP
+FND-8054_Bitmoji_Room_Dresser_B
+FND-8054_Bitmoji_Room_Fireplace_A_GRP
+FND-8054_Bitmoji_Room_Fireplace_B_GRP
+FND-8054_Bitmoji_Room_Fireplace_C_GRP
+FND-8054_Bitmoji_Room_Fireplace_E
+FND-8054_Bitmoji_Room_FramePicture_A
+FND-8054_Bitmoji_Room_FramePicture_A_1
+FND-8054_Bitmoji_Room_FramePicture_A_2
+FND-8054_Bitmoji_Room_FramePicture_B
+FND-8054_Bitmoji_Room_FramePicture_B_1
+FND-8054_Bitmoji_Room_FramePicture_B_2
+FND-8054_Bitmoji_Room_FramePicture_B_3
+FND-8054_Bitmoji_Room_FramePicture_B_4
+FND-8054_Bitmoji_Room_FramePicture_C
+FND-8054_Bitmoji_Room_Furniture_A_GRP
+FND-8054_Bitmoji_Room_Furniture_B_GRP
+FND-8054_Bitmoji_Room_Kettle_GRP
+FND-8054_Bitmoji_Room_Lamp_A
+FND-8054_Bitmoji_Room_Lamp_B
+FND-8054_Bitmoji_Room_Lamp_C
+FND-8054_Bitmoji_Room_Lamp_D
+FND-8054_Bitmoji_Room_Lounge_GRP
+FND-8054_Bitmoji_Room_Milkbox_GRP
+FND-8054_Bitmoji_Room_Ring_Table_GRP
+FND-8054_Bitmoji_Room_RoofLamp_A_GRP
+FND-8054_Bitmoji_Room_RoofLamp_B_GRP
+FND-8054_Bitmoji_Room_RoofLamp_C_GRP
+FND-8054_Bitmoji_Room_Shelf_A
+FND-8054_Bitmoji_Room_Shelf_B
+FND-8054_Bitmoji_Room_Shelf_C
+FND-8054_Bitmoji_Room_Shelf_C_GRP
+FND-8054_Bitmoji_Room_Shelf_C_GRP_1
+FND-8054_Bitmoji_Room_Shelf_E
+FND-8054_Bitmoji_Room_Shelf_G
+FND-8054_Bitmoji_Room_SnookerDesk_GRP
+FND-8054_Bitmoji_Room_Sofa_A
+FND-8054_Bitmoji_Room_Sofa_A_GRP
+FND-8054_Bitmoji_Room_Sofa_B
+FND-8054_Bitmoji_Room_Sofa_B_2
+FND-8054_Bitmoji_Room_Sofa_C
+FND-8054_Bitmoji_Room_Table_A_GRP_1
+FND-8054_Bitmoji_Room_Table_B
+FND-8054_Bitmoji_Room_Table_B_1
+FND-8054_Bitmoji_Room_Table_C
+FND-8054_Bitmoji_Room_Toilet_GRP
+FND-8054_Bitmoji_Room_Vase_A
+FND-8054_Bitmoji_Room_Vase_B
+FND-8054_Bitmoji_Room_Vase_C
+FND-8054_Bitmoji_Room_Vase_D
+FND-8054_Bitmoji_Room_Vase_E
+FND-8054_Bitmoji_Room_Vase_E_1
+FND-8054_Bitmoji_Room_Wardrobe_A_GRP
+FND-8054_Bitmoji_Room_Wardrobe_B_GRP
+FND-8054_Bitmoji_Room_Wardrobe_F_GRP
+FND-8054_Bitmoji_Room_WateringCAN_GRP
+FND-8054_Bitmoji_Room_Window_A_GRP_1
+FND-8054_Bitmoji_Room_Window_A_GRP_2
+FND-8054_Bitmoji_Room_Window_A_GRP_3
+FND-8054_Bitmoji_Room_Window_B
+FND-8054_Bitmoji_Room_outdoor_b_GRP
+FND-8054_Bitmoji_Room_outdoor_c_GRP_1
+FND-8054_Bitmoji_Room_roundedDesk_GRP
+FND-8054_Bitmoji_Room_wardrobe_c_GRP
+FND-8054_Bitmoji_Room_wardrobe_d_GRP
+FND-8054_Bitmoji_Room_window_d_GRP
+FND-8054_Bitmoji_Room_window_e_GRP
+FND-8054_Bitmoji_Room_window_f_GRP
+FND-8054_Bitmoji_Room_woodenDesk_GRP
 FND-8349_wheel_of_lenses_gender_swap_ml
 FND-8349_wheel_of_lenses_shook_ml
 FaceSwap136
@@ -2979,9 +3070,12 @@ LORG-28576_morphing_2_snapflix_scmorphing_sc_2025
 LORG-28582_loading_silly_face_snapflix_scmorphing_sc_2025
 LORG-28584_hard_flirt_face_snapflix_scmorphing_sc_2025
 LORG-28591_creepy_smile_snapflix_scmorphing_sc_2025
+LORG-28877_v1
+LORG-28877_v2
 LORG-29087_crazy_eyes_snapflixmorphing_2025
 LORG-29106_hilarious_buddy_snapflixbeard_and_furry_styles_2025
 LORG-29106_hilarious_buddy_snapflixbeard_and_furry_styles_2025_v2
+LORG-29121_v3
 LORG-29227_sour_face_snapflixmorphing_2025
 LORG-2934_coffee_2024
 LORG-2934_mcu_punchlines_coffee_2024
@@ -4611,7 +4705,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-14_
+_Last updated on 2026-02-18_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
