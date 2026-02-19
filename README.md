@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4700 in total).  
+List of all available assets for download (currently 4702 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3082,6 +3082,7 @@ LORG-2934_mcu_punchlines_coffee_2024
 LORG-29648_disgusted
 LORG-29648_disgusted_person_snapflixmorphing3d_ml_2025
 LORG-30157_almost_human_snapflix_scmorphing_sc_2025
+LORG-30163_old_lady_glasses_snapflix_scmorphing_sc_2025
 LORG-30166_strange_smile_snapflix_scmorphing_sc_2025
 LORG-30168_froggy_face_snapflix_scmorphing_sc_2025
 LORG-30174_smile_teeth_morphing_9_snapflix_scmorphing_sc_2025
@@ -3587,6 +3588,7 @@ RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_enh
 RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_enhanced_320
 RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_female_grumpy_baseline320
 RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_female_grumpy_enhanced512
+RND-20843_5M_cartoon_13_styles_pixelart_512-full
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4705,7 +4707,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-18_
+_Last updated on 2026-02-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
