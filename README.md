@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4702 in total).  
+List of all available assets for download (currently 4716 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1277,6 +1277,7 @@ FND-8054_Bitmoji_Room_Table_B
 FND-8054_Bitmoji_Room_Table_B_1
 FND-8054_Bitmoji_Room_Table_C
 FND-8054_Bitmoji_Room_Toilet_GRP
+FND-8054_Bitmoji_Room_Turntable_A
 FND-8054_Bitmoji_Room_Vase_A
 FND-8054_Bitmoji_Room_Vase_B
 FND-8054_Bitmoji_Room_Vase_C
@@ -1291,9 +1292,22 @@ FND-8054_Bitmoji_Room_Window_A_GRP_1
 FND-8054_Bitmoji_Room_Window_A_GRP_2
 FND-8054_Bitmoji_Room_Window_A_GRP_3
 FND-8054_Bitmoji_Room_Window_B
+FND-8054_Bitmoji_Room_cool_over_1
+FND-8054_Bitmoji_Room_flow_1
+FND-8054_Bitmoji_Room_gentle_transition_1
+FND-8054_Bitmoji_Room_groovy_1
+FND-8054_Bitmoji_Room_lofi_grooves_1
+FND-8054_Bitmoji_Room_mayhem_1
 FND-8054_Bitmoji_Room_outdoor_b_GRP
 FND-8054_Bitmoji_Room_outdoor_c_GRP_1
+FND-8054_Bitmoji_Room_party_1
+FND-8054_Bitmoji_Room_pop_that_1
 FND-8054_Bitmoji_Room_roundedDesk_GRP
+FND-8054_Bitmoji_Room_smoothy_groove_1
+FND-8054_Bitmoji_Room_street_vibe_1
+FND-8054_Bitmoji_Room_study_session_1
+FND-8054_Bitmoji_Room_user_experience_1
+FND-8054_Bitmoji_Room_vinyl_coffee
 FND-8054_Bitmoji_Room_wardrobe_c_GRP
 FND-8054_Bitmoji_Room_wardrobe_d_GRP
 FND-8054_Bitmoji_Room_window_d_GRP
@@ -4707,7 +4721,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-19_
+_Last updated on 2026-02-20_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
