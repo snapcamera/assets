@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4719 in total).  
+List of all available assets for download (currently 4723 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -165,6 +165,7 @@ See the last section for instructions on [how to download the assets](#download-
 175699_174669_172661_mass_snap_rnd_multyinstance_PILOT1
 19002-3146
 1929_retouch_ml_custom_analytics_rnd
+20097533
 20230510_conditional_models_base_step20000_ema
 20230607_smooth_transitions_group_1_base_step10000_ema
 20230607_smooth_transitions_group_2_base_step20000_ema
@@ -3126,6 +3127,7 @@ LORG-3250_Triangle_face
 LORG-3255_esl_ml_only_mouth_2024_condition
 LORG-3255_esl_ml_only_mouth_2024_no_condition
 LORG-32642_gentlemans_mustache_snapflix_scbeard_and_furry_styles_sc_2026
+LORG-32812_DERPINESS_MORPH
 LORG-32815_half_bald_kid_snapflixmorphing_2026
 LORG-3293_INNV_Evil_Face_ML_2024
 LORG-3293_INNV_Evil_Face_ML_2024_v1
@@ -3143,7 +3145,9 @@ LORG-3455_innv_devil_face_ml_2024
 LORG-3458_innv_cowgirl_granny_ml_2024
 LORG-35114_old_handsome_guy_snapflixmorphing_2026
 LORG-35354_old_lady_snapflixmorphing_2026
+LORG-35354_old_lady_snapflixmorphing_2026_shell2
 LORG-35355_cool_granny_snapflixmorphing_2026
+LORG-35355_cool_granny_snapflixmorphing_2026_shell2
 LORG-3710_esl_ml_renaissance_full_screen_ml_2024
 LORG-3789
 LORG-3789_juvel
@@ -4724,7 +4728,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-21_
+_Last updated on 2026-02-24_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
