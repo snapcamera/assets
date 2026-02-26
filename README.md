@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4724 in total).  
+List of all available assets for download (currently 4731 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3611,6 +3611,12 @@ RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_baby_face_enh
 RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_female_grumpy_baseline320
 RND-20121_test_face_swap_distillation_dataset_2_upscale_3d_ml_flux_female_grumpy_enhanced512
 RND-20843_5M_cartoon_13_styles_pixelart_512-full
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_green_elf_cartoon
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_green_elf_no_fs
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_green_elf_realistic
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_body_avatar
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_cartoon
+RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_realistic
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4490,6 +4496,7 @@ RND_688_13_17_Basic_Beauty_PLT6_low
 RND_688_13_17_Basic_Beauty_PLT6_v1
 RND_688_13_17_Basic_Beauty_PLT6_v4
 RND_688_13_17_Basic_Beauty_PLT6_v5
+RRND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_green_elf_no_fs
 Radiant_Smile_25273
 Ryuk_A_25235
 Ryuk_B_25237
@@ -4729,7 +4736,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-25_
+_Last updated on 2026-02-26_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
