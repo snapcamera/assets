@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4732 in total).  
+List of all available assets for download (currently 4734 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3144,6 +3144,7 @@ LORG-3377_esl_ml_furry_face_2024_no_hair
 LORG-34211_baby_hat_snapflixchildren2026
 LORG-3455_innv_devil_face_ml_2024
 LORG-3458_innv_cowgirl_granny_ml_2024
+LORG-34777_cat_eyes_snap_plus_remix_2026
 LORG-34888_FUNNY_CHEEKS
 LORG-35114_old_handsome_guy_snapflixmorphing_2026
 LORG-35354_old_lady_snapflixmorphing_2026
@@ -3237,6 +3238,7 @@ LORG_3789_Dhanteras_ML
 LORG_3789_Dhanteras_ML_jewelry
 LORG_3789_jewelry
 Lorg-test_26726-6728-large
+LucioTest
 MAGIC_ERASER_CREATIVE_TOOL
 MAGIC_ERASER_CREATIVE_TOOL_NEW
 ML_ASSET_ID_EXAMPLE
@@ -4737,7 +4739,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-02-27_
+_Last updated on 2026-03-04_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
