@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4734 in total).  
+List of all available assets for download (currently 4744 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -166,6 +166,7 @@ See the last section for instructions on [how to download the assets](#download-
 19002-3146
 1929_retouch_ml_custom_analytics_rnd
 20097533
+20097637
 20230510_conditional_models_base_step20000_ema
 20230607_smooth_transitions_group_1_base_step10000_ema
 20230607_smooth_transitions_group_2_base_step20000_ema
@@ -1195,6 +1196,8 @@ EVASYLEVA_TEST_2
 EVASYLEVA_TEST_3
 EVASYLEVA_TEST_6
 Egg_Face_25316
+Extra32671033
+Extras-20097637
 FACE_SWAP_ON_DEVICE_AROZHKOV_V3_13.6M_FULL
 FACE_SWAP_ON_DEVICE_AROZHKOV_V3_5M_FULL
 FACE_SWAP_ON_DEVICE_COMMUNITY
@@ -3239,6 +3242,7 @@ LORG_3789_Dhanteras_ML_jewelry
 LORG_3789_jewelry
 Lorg-test_26726-6728-large
 LucioTest
+LucioTest2
 MAGIC_ERASER_CREATIVE_TOOL
 MAGIC_ERASER_CREATIVE_TOOL_NEW
 ML_ASSET_ID_EXAMPLE
@@ -3620,6 +3624,12 @@ RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_green_elf_r
 RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_body_avatar
 RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_cartoon
 RND-21083_test_face_swap_cartoon_realistic_body_avatar_full_frame_ml_violet_realistic
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_image_cheecks
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_image_octopus
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_image_teeth
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_baby
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_cry
+RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_skull
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4739,7 +4749,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-03-04_
+_Last updated on 2026-03-06_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
