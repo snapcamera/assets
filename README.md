@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4760 in total).  
+List of all available assets for download (currently 4775 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -2318,6 +2318,7 @@ LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_rr60yx1n
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_ufzzwr12
 LENS_STUDIO_MOBILE_COMPONENT_TEXT_V1_TEST_yuhhi6yl
 LENS_STUDIO_MOBILE_HEADMORPH_COMPONENT_V1
+LENS_STUDIO_VEM_ICONS_V1_TEST
 LENS_STUDIO_WEB_COMPONENTS_LIST_V1_TE
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1
 LENS_STUDIO_WEB_COMPONENT_ADJUST_V1_TEST_ccgrjb36
@@ -3161,6 +3162,8 @@ LORG-36090_beautiful_face_shell_1
 LORG-36090_beautiful_face_shell_2
 LORG-36090_beautiful_face_shell_3
 LORG-36090_beautiful_face_shell_4
+LORG-36496_old_moustaches
+LORG-36974_dolly_baby
 LORG-3710_esl_ml_renaissance_full_screen_ml_2024
 LORG-3789
 LORG-3789_juvel
@@ -3646,6 +3649,18 @@ RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_alien_VAE512
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_alien_baseline
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_blue_creature_VAE512
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_blue_creature_baseline
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_150k_alien
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_150k_carrot
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_150k_lemon_head
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_150k_orc
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_50k_alien
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_50k_carrot
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_50k_lemon_head
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_50k_orc
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_alien
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_carrot
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_lemon_head
+RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_orc
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4765,7 +4780,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-03-11_
+_Last updated on 2026-03-12_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
