@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4777 in total).  
+List of all available assets for download (currently 4792 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3538,6 +3538,15 @@ RND-15484_style1_d10_v1
 RND-15484_style1_d10_v2
 RND-15484_style1_d11_v1
 RND-15484_style1_d11_v2
+RND-15774_ai_post_capture_retouchdistilled_base_option1_200k_ema
+RND-15774_ai_post_capture_retouchdistilled_base_option1_200k_ema.dnn
+RND-15774_ai_post_capture_retouchdistilled_base_option2_200k_ema
+RND-15774_ai_post_capture_retouchdistilled_base_option2_200k_ema.dnn
+RND-15774_ai_post_capture_retouchdistilled_base_option3_200k_ema
+RND-15774_ai_post_capture_retouchdistilled_base_option3_200k_ema.dnn
+RND-15774_ai_post_capture_retouchdistilled_large_option1_200k_ema
+RND-15774_ai_post_capture_retouchdistilled_large_option1_200k_ema.dnn
+RND-15774_ai_post_capture_retouchdistilled_small_base_option1_200k_ema
 RND-16146_test_face_swap_model_A_5mb_embedder
 RND-16146_test_face_swap_model_A_5mb_full
 RND-16146_test_face_swap_model_A_5mb_generator
@@ -3663,6 +3672,12 @@ RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_alien
 RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_carrot
 RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_lemon_head
 RND-21399_prod_model_vs_v1.5_body_avatar_full_frame_ml_baseline_orc
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_150k_carrot
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_150k_cat
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_150k_lemon_head
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_carrot
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_cat
+RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_lemon_head
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4782,7 +4797,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-03-13_
+_Last updated on 2026-03-14_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
