@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4792 in total).  
+List of all available assets for download (currently 4796 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3138,6 +3138,7 @@ LORG-32642_gentlemans_mustache_snapflix_scbeard_and_furry_styles_sc_2026
 LORG-32809_eerie_smile
 LORG-32812_DERPINESS_MORPH
 LORG-32812_DERPINESS_MORPH_2
+LORG-32815
 LORG-32815_half_bald_kid_snapflixmorphing_2026
 LORG-3293_INNV_Evil_Face_ML_2024
 LORG-3293_INNV_Evil_Face_ML_2024_v1
@@ -3656,6 +3657,9 @@ RND-21315_test_for_new_model_set_1_3d_ml_qwen_red_horns
 RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_baby
 RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_cry
 RND-21315_test_for_new_model_set_1_3d_ml_qwen_text_skull
+RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_PLT2_alien
+RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_PLT2_blue_alien
+RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_PLT2_green_alien
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_alien_VAE512
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_alien_baseline
 RND-21317_test_baseline_vs_vae512_set_2_3d_ml_qwen_text_prompt_blue_creature_VAE512
@@ -4797,7 +4801,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-03-14_
+_Last updated on 2026-03-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
