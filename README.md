@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4818 in total).  
+List of all available assets for download (currently 4819 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -4775,6 +4775,7 @@ p0_8_base
 p0_9_base
 p2_2_base
 post_impressionism_artwork_full_frame
+realistic_clean_shaven_bald_head
 rnd_3699_bundle_v13_makeup_cameos_ml
 satisfied_face_25560
 smile_every_day_25397
@@ -4823,7 +4824,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-04-01_
+_Last updated on 2026-04-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
