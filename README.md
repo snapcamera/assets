@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4821 in total).  
+List of all available assets for download (currently 4823 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3193,6 +3193,8 @@ LORG-3789_no_juvel
 LORG-38057_eccentric_mustache_snapflix_cwlbeard_and_furry_styles_cwl_2026
 LORG-38057_eccentric_mustache_snapflix_cwlbeard_and_furry_styles_cwl_2026_v2
 LORG-38064_mustache_fury_snapflix_cwlbeard_and_furry_styles_cwl_2026
+LORG-38064_mustache_fury_snapflix_cwlbeard_and_furry_styles_cwl_2026_v2
+LORG-38065_ultimate_gatekeeper_snapflix_cwlbeard_and_furry_styles_cwl_2026_v2
 LORG-3948_esl_ml_clown_2024
 LORG-3948_esl_ml_clown_2024_Hair
 LORG-3955_esl_ml_giraffe_2024
@@ -4826,7 +4828,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-04-03_
+_Last updated on 2026-04-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
