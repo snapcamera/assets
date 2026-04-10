@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4823 in total).  
+List of all available assets for download (currently 4836 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3707,6 +3707,19 @@ RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_150k_lemon_head
 RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_carrot
 RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_cat
 RND-21498_test_prod_model_vs_v2_body_avatar_full_frame_ml_50k_lemon_head
+RND-22027_base_b004_cartoon_heroes_0016_step50000_ema.dnn
+RND-22027_base_b007_cartoon_heroes_0345_step50000_ema.dnn
+RND-22027_batch_004_cartoon_heroes_bg_0016_seed42_large_step50000_ema.dnn
+RND-22027_batch_007_cartoon_heroes_bg_0345_seed42_large_step50000_ema.dnn
+RND-22027_large_nas_b004_cartoon_heroes_0016_step50000_ema.dnn
+RND-22027_large_nas_b007_cartoon_heroes_0345_step50000_ema.dnn
+RND-22027_mnv4_conv_med_dec256_b004_cartoon_heroes_0016_step50000_ema.dnn
+RND-22027_mnv4_conv_med_dec256_b007_cartoon_heroes_0345_step50000_ema.dnn
+RND-22027_mnv4_dec128_b004_cartoon_heroes_0016_step50000_ema.dnn
+RND-22027_mnv4_dec128_b007_cartoon_heroes_0345_step50000_ema.dnn
+RND-22027_mnv4_dec256_b004_cartoon_heroes_0016_step50000_ema.dnn
+RND-22027_mnv4_dec256_b007_cartoon_heroes_0345_step50000_ema
+RND-22027_mnv4_dec256_b007_cartoon_heroes_0345_step50000_ema.dnn
 RND-2287_holographic_pix2pix_live
 RND-2287_holographic_pix2pix_live_V1
 RND-2287_holographic_pix2pix_live_V2
@@ -4828,7 +4841,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-04-09_
+_Last updated on 2026-04-10_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
