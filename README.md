@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4839 in total).  
+List of all available assets for download (currently 4840 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -4609,6 +4609,7 @@ Ryuk_B_25237
 Ryuk_C_25239
 SINGLE_ML_FIRST_BABY
 SL_120_download_model
+SNAPGEN_OS_CHECK
 SNOWIFICATION_WINTER_SNOW
 SOME_CONFIG_ID
 Sad_Face_25249
@@ -4844,7 +4845,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-04-11_
+_Last updated on 2026-04-12_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
