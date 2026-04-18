@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4857 in total).  
+List of all available assets for download (currently 4864 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -419,6 +419,8 @@ BBOX_MOBILE_POSE_SEG_S1_TWO_STAGE_CANONICAL_annotatorOptions
 BBOX_MOBILE_POSE_SEG_S1_TWO_STAGE_CANONICAL_model
 BF_TEST_0_1_0
 BF_UPLOAD_TEST
+BITMOJI_FACE_ANIMATIONS
+BITMOJI_FACE_ANIMATOR_SAD
 BRANDED-1087_coca_cola_olympics_2024_in_app_selfie_lens
 BRANDED-1088_brisk_claymation
 BRANDED-1099_nyx_bb_color_palette_v1
@@ -2069,6 +2071,7 @@ LENSCORE_SIGNALL_GESTURE
 LENSCORE_SIGNALL_SIGN_RECOGNITION_APOLLO
 LENSCORE_SIGNALL_TARGETING
 LENSCORE_SNAPML_SNAPGEN_FACE_SWAP
+LENSCORE_SNAPML_SNAPGEN_V3_DECODER_SC_1344X768_TEST
 LENSCORE_SWAGML_BUV_WARP_DEBUG
 LENSCORE_SWAGML_BUV_WARP_PROD
 LENSCORE_SWAGML_BUV_WARP_V1
@@ -3187,6 +3190,10 @@ LORG-36090_beautiful_face_shell_3
 LORG-36090_beautiful_face_shell_4
 LORG-36496_old_moustaches
 LORG-36974_dolly_baby
+LORG-36982_funny_emotion_anim
+LORG-36982_funny_emotion_anim_2
+LORG-36982_funny_emotion_stat
+LORG-36982_funny_emotion_stat_2
 LORG-3710_esl_ml_renaissance_full_screen_ml_2024
 LORG-3789
 LORG-3789_juvel
@@ -4862,7 +4869,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-04-14_
+_Last updated on 2026-04-18_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
