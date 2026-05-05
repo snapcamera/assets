@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4869 in total).  
+List of all available assets for download (currently 4870 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3183,6 +3183,7 @@ LORG-35354_old_lady_snapflixmorphing_2026
 LORG-35354_old_lady_snapflixmorphing_2026_shell2
 LORG-35355_cool_granny_snapflixmorphing_2026
 LORG-35355_cool_granny_snapflixmorphing_2026_shell2
+LORG-35363_blup_morph_snapflixmorphing_2026
 LORG-35364_square_old_morph_snapflixmorphing_2026
 LORG-36090_beautiful_face_shell_1
 LORG-36090_beautiful_face_shell_2
@@ -4874,7 +4875,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-05-02_
+_Last updated on 2026-05-05_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
