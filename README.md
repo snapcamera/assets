@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4870 in total).  
+List of all available assets for download (currently 4871 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -469,6 +469,7 @@ BRANDED-4939_avatar_fire_and_ash_v3
 BRANDED-5154_ML27291
 BRANDED-5154_ML27370
 BRANDED-5286_tron_ares_context_switch
+BRANDED-6440_the_mandalorian_and_grogu_localizations
 BRANDED-669_paris_2024_olympics_camkit_1924_lens_7
 BRANDED_1754_captain_america_red_hulk
 BRANDED_2740_HOGWARDS_CHESS
@@ -4875,7 +4876,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-05-05_
+_Last updated on 2026-05-07_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
