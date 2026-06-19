@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4897 in total).  
+List of all available assets for download (currently 4899 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1931,6 +1931,8 @@ LENSCORE_FACECRAFT_RETOUCH_V6
 LENSCORE_FACECRAFT_STUNNING_LOOK_AA
 LENSCORE_FACECRAFT_STUNNING_LOOK_ALL_COMPRESSED
 LENSCORE_FACECRAFT_STUNNING_LOOK_PACKED_PREFABS_TEST
+LENSCORE_FACEML_TEST_GRANNY_DRAGON
+LENSCORE_FACEML_TEST_GRANNY_DRAGON_DNN
 LENSCORE_FACETRACKING_DENOISE
 LENSCORE_FACETRACKING_EAR_FITTER_V3
 LENSCORE_FACETRACKING_ESTIMATE_CANDIDE_2D
@@ -4902,7 +4904,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-06-18_
+_Last updated on 2026-06-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
