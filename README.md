@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4900 in total).  
+List of all available assets for download (currently 4903 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -420,6 +420,9 @@ BBOX_MOBILE_POSE_SEG_S1_TWO_STAGE_CANONICAL_model
 BF_TEST_0_1_0
 BF_UPLOAD_TEST
 BGM_PACK_KENNEY_GRAVEYARD
+BGM_PACK_KENNEY_GRAVEYARD_DEV_20260625_202058
+BGM_PACK_KENNEY_GRAVEYARD_V1
+BGM_TEST_APPROACH_A
 BITMOJI_FACE_ANIMATIONS
 BITMOJI_FACE_ANIMATOR_SAD
 BRANDED-1087_coca_cola_olympics_2024_in_app_selfie_lens
@@ -4905,7 +4908,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-06-25_
+_Last updated on 2026-06-26_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
