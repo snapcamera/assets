@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4924 in total).  
+List of all available assets for download (currently 4925 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1176,6 +1176,7 @@ Doll_India_ML_RND_187
 Dont_hide_your_pain_25062-5870
 Dracula_25280
 Drunk_Face_25801
+EASYLENS_RTLNS_REMOTE_PREFAB_TEST
 EASY_LENS_11696
 EASY_LENS_3761
 EASY_LENS_3786
@@ -4929,7 +4930,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-07-03_
+_Last updated on 2026-07-07_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
