@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4929 in total).  
+List of all available assets for download (currently 4936 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -420,10 +420,13 @@ BBOX_MOBILE_POSE_SEG_S1_TWO_STAGE_CANONICAL_model
 BF_TEST_0_1_0
 BF_UPLOAD_TEST
 BGM_PACK_EXTERIOR_DECOR_V1
+BGM_PACK_EXTERIOR_DECOR_V2
 BGM_PACK_GAME_OBJECTS_V1
 BGM_PACK_GAME_OBJECTS_V2
 BGM_PACK_GROUND_TILES_V1
+BGM_PACK_GROUND_TILES_V2
 BGM_PACK_INTERIOR_DECOR_V1
+BGM_PACK_INTERIOR_DECOR_V2
 BGM_PACK_KENNEY_DUNGEON_V1
 BGM_PACK_KENNEY_FANTASY_V1
 BGM_PACK_KENNEY_GRAVEYARD
@@ -434,9 +437,13 @@ BGM_PACK_KENNEY_MARKET_V1
 BGM_PACK_KENNEY_MINIGOLF_V1
 BGM_PACK_KENNEY_SKATE_V1
 BGM_PACK_NATURE_V1
+BGM_PACK_NATURE_V2
 BGM_PACK_PLATFORMS_V1
+BGM_PACK_PLATFORMS_V2
 BGM_PACK_ROAD_PROPS_V1
+BGM_PACK_ROAD_PROPS_V2
 BGM_PACK_VEHICLES_V1
+BGM_PACK_VEHICLES_V2
 BGM_TEST_APPROACH_A
 BITMOJI_FACE_ANIMATIONS
 BITMOJI_FACE_ANIMATOR_SAD
@@ -4934,7 +4941,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-07-17_
+_Last updated on 2026-07-18_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
