@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4937 in total).  
+List of all available assets for download (currently 4939 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3277,6 +3277,7 @@ LORG-4200_esl_ml_shocked_monkey_2024
 LORG-4240_esl_ml_anime_face_2024
 LORG-4251_esl_ml_lion_ml_2024
 LORG-4313_esl_ml_graffiti_full_screen_ml_2024
+LORG-43715_awkward_grimace
 LORG-44571_cpt_scrunch_face_snapflixmorphing_2026
 LORG-4553
 LORG-4808_lensflixbeardfurry_brows_ml_2024
@@ -4898,6 +4899,7 @@ rnd_3699_bundle_v13_makeup_cameos_ml
 satisfied_face_25560
 smile_every_day_25397
 soft_glitter
+specs_leviossa
 summary_to_github_v1_example_remove_me
 test100
 test_111
@@ -4942,7 +4944,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-07-19_
+_Last updated on 2026-07-21_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
