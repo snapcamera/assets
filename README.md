@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4956 in total).  
+List of all available assets for download (currently 4962 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -890,6 +890,12 @@ CC_CHARACTER_CONTROLLER_ANIMATION_DASH
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_MIXAMO
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_SETTLE
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_SETTLE_MIXAMO
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_1
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_2
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_3
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_4
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_5
+CC_CHARACTER_CONTROLLER_ANIMATION_EMOTE_6
 CC_CHARACTER_CONTROLLER_ANIMATION_FALL
 CC_CHARACTER_CONTROLLER_ANIMATION_FALL_MIXAMO
 CC_CHARACTER_CONTROLLER_ANIMATION_IDLE
@@ -4961,7 +4967,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-08-28_
+_Last updated on 2026-09-02_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
