@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 4997 in total).  
+List of all available assets for download (currently 5003 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -892,6 +892,12 @@ CAMEOS_RND_2333_bundle_V8_PLT1_V18
 CAMEOS_RND_2333_bundle_V8_PLT1_V19
 CAMEOS_RND_2333_bundle_V8_PLT1_V20
 CAMEO_Music_Band_video_texture
+CC_BITMOJI_ANIMATION_CLAP
+CC_BITMOJI_ANIMATION_CRY
+CC_BITMOJI_ANIMATION_DANCE
+CC_BITMOJI_ANIMATION_GUITAR
+CC_BITMOJI_ANIMATION_LIKE
+CC_BITMOJI_ANIMATION_LOL
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_MIXAMO
 CC_CHARACTER_CONTROLLER_ANIMATION_DASH_OPTIMIZED
@@ -5002,7 +5008,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-09-17_
+_Last updated on 2026-09-18_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
