@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5003 in total).  
+List of all available assets for download (currently 5005 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -4769,6 +4769,8 @@ Ryuk_B_25237
 Ryuk_C_25239
 SINGLE_ML_FIRST_BABY
 SL_120_download_model
+SNAPGEN_BACKEND_V1
+SNAPGEN_BACKEND_V1_TEST
 SNAPGEN_OS_CHECK
 SNAPGEN_OS_CHECK_TEST
 SNAPGEN_PIPELINE_TEST
@@ -5008,7 +5010,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-09-25_
+_Last updated on 2026-09-26_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
