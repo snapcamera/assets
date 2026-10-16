@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5034 in total).  
+List of all available assets for download (currently 5036 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -437,6 +437,7 @@ BGM_PACK_INTERIOR_DECOR_V3
 BGM_PACK_KENNEY_DUNGEON_V1
 BGM_PACK_KENNEY_DUNGEON_V2
 BGM_PACK_KENNEY_DUNGEON_V3
+BGM_PACK_KENNEY_DUNGEON_V4
 BGM_PACK_KENNEY_FANTASY_V1
 BGM_PACK_KENNEY_FANTASY_V2
 BGM_PACK_KENNEY_GRAVEYARD
@@ -1052,6 +1053,7 @@ CuteFace_25131
 CuteSmile_25153
 Cute_Smoorph_25250
 Cyberpank_Makeup_25073-5891
+DBONDARENKO_TEST_ASSET
 DDA_TEST_NEW
 DDA_TEST_UPDATE_CONFIG
 DI-1390_Arc_15454_2182_V1
@@ -5039,7 +5041,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-10-15_
+_Last updated on 2026-10-16_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
