@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5036 in total).  
+List of all available assets for download (currently 5043 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -440,11 +440,15 @@ BGM_PACK_KENNEY_DUNGEON_V3
 BGM_PACK_KENNEY_DUNGEON_V4
 BGM_PACK_KENNEY_FANTASY_V1
 BGM_PACK_KENNEY_FANTASY_V2
+BGM_PACK_KENNEY_FANTASY_V3
+BGM_PACK_KENNEY_GAMEPLAY_V1
+BGM_PACK_KENNEY_GAMEPLAY_V2
 BGM_PACK_KENNEY_GRAVEYARD
 BGM_PACK_KENNEY_GRAVEYARD_DEV_20260625_202058
 BGM_PACK_KENNEY_GRAVEYARD_V1
 BGM_PACK_KENNEY_GRAVEYARD_V2
 BGM_PACK_KENNEY_GRAVEYARD_V3
+BGM_PACK_KENNEY_GRAVEYARD_V4
 BGM_PACK_KENNEY_MARKET_V1
 BGM_PACK_KENNEY_MARKET_V2
 BGM_PACK_KENNEY_MINIGOLF_V1
@@ -455,6 +459,7 @@ BGM_PACK_NATURE_V1
 BGM_PACK_NATURE_V2
 BGM_PACK_NATURE_V3
 BGM_PACK_NATURE_V4
+BGM_PACK_NATURE_V5
 BGM_PACK_PLATFORMS_V1
 BGM_PACK_PLATFORMS_V2
 BGM_PACK_PLATFORMS_V3
@@ -3373,6 +3378,7 @@ LORG-43721_bitten_lip_snapflixmorphing_2026
 LORG-44560_very_very_shocked_snapflixmorphing_2026
 LORG-44571_cpt_scrunch_face_snapflixmorphing_2026
 LORG-4553
+LORG-47562_cute_masculine_character_snapflixmorphing_2026
 LORG-47563_heart_pout_snapflixmorphing_2026
 LORG-4808_lensflixbeardfurry_brows_ml_2024
 LORG-4811_lensflixbeard_green_ml_beard_2024
@@ -3380,6 +3386,7 @@ LORG-4814_lensflixbeard_sad_eyebrows_ml_2024
 LORG-5014_trans_look_snapflixbeard
 LORG-5051
 LORG-5051_new
+LORG-50705_MULTIPLAYER_HUB_MINI_GAME_EXAMPLE
 LORG-5084_curly_hairstyle_snapflixbeard
 LORG-5380_dolmatian_ears_snapflixears
 LORG-5380_ears_only
@@ -5041,7 +5048,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-10-16_
+_Last updated on 2026-10-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
