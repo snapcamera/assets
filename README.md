@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5046 in total).  
+List of all available assets for download (currently 5047 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -423,6 +423,7 @@ BGM_PACK_EXTERIOR_DECOR_V1
 BGM_PACK_EXTERIOR_DECOR_V2
 BGM_PACK_EXTERIOR_DECOR_V3
 BGM_PACK_EXTERIOR_DECOR_V4
+BGM_PACK_EXTERIOR_DECOR_V5
 BGM_PACK_GAME_OBJECTS_V1
 BGM_PACK_GAME_OBJECTS_V2
 BGM_PACK_GAME_OBJECTS_V3
@@ -5051,7 +5052,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-10-18_
+_Last updated on 2026-10-19_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
