@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5055 in total).  
+List of all available assets for download (currently 5058 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -255,6 +255,9 @@ See the last section for instructions on [how to download the assets](#download-
 9836-918-base
 AI_LENSES_ERROR_WIDGET_DOUBLE
 AI_LENSES_ERROR_WIDGET_SINGLE
+AI_VIDEO_STORY_UI_TEST
+AI_VIDEO_STORY_UI_TEST2
+AI_VIDEO_STORY_UI_TEST3
 ANIME_FULL_SCREEN
 ANIME_FULL_SCREEN_V2
 ANIME_FULL_SCREEN_V3
@@ -5060,7 +5063,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-10-28_
+_Last updated on 2026-10-29_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
