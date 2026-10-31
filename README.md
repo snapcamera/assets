@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5058 in total).  
+List of all available assets for download (currently 5060 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -1378,6 +1378,8 @@ FACE_SWAP_ON_DEVICE_COMMUNITY_V3
 FACE_SWAP_ON_DEVICE_COMMUNITY_VIDEO
 FLYING_CEILING
 FLYING_CEILING_TEST
+FND-15042_frog_full_frame_ml_v7_2_200000_last_ema_v00
+FND-15042_frog_full_frame_ml_v7_2_shorts_old_i2i_200000_ema_v00
 FND-4490-Face-Swap-3
 FND-4818_LENS_MAKER_TEST
 FND-5106-QNA-LENSMAKER-MOBILE-v1
@@ -5063,7 +5065,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-10-30_
+_Last updated on 2026-10-31_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
