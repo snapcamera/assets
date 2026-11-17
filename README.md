@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5077 in total).  
+List of all available assets for download (currently 5080 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3419,6 +3419,9 @@ LORG-5051_new
 LORG-50705_MULTIPLAYER_HUB_MINI_GAME_EXAMPLE
 LORG-50705_MULTIPLAYER_HUB_SLING_SLIDE_MINI_GAME
 LORG-5084_curly_hairstyle_snapflixbeard
+LORG-53171_soft_hair
+LORG-53174_curly_long_hair
+LORG-53186_blonde_hair
 LORG-5380_dolmatian_ears_snapflixears
 LORG-5380_ears_only
 LORG-6104_Beauty_SF_V1
@@ -5082,7 +5085,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-11-07_
+_Last updated on 2026-11-17_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
