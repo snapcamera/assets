@@ -1,5 +1,5 @@
 ## List of Snap Camera Assets
-List of all available assets for download (currently 5089 in total).  
+List of all available assets for download (currently 5090 in total).  
 See the last section for instructions on [how to download the assets](#download-assets)
 
 ```text
@@ -3426,6 +3426,7 @@ LORG-53164_pink_hair_snap_plus_remix_2026
 LORG-53171_soft_hair
 LORG-53174_curly_long_hair
 LORG-53177_long_pixie_hair
+LORG-53180_gray_hair_snap_plus_remix_2026
 LORG-53183_ginger_hair
 LORG-53186_blonde_hair
 LORG-53191_platinum_blonde
@@ -5094,7 +5095,7 @@ violet_lips_25392
 wwe_crown_jewels
 ```
 
-_Last updated on 2026-11-24_
+_Last updated on 2026-11-25_
 
 ## Download Assets
 You can download all assets listed above by becoming a **[GitHub Sponsor for $1 a month ❤️](https://github.com/sponsors/ptrumpis/sponsorships?pay_prorated=false&sponsor=ptrumpis&tier_id=273583)**  
